@@ -1,0 +1,35 @@
+Tue Feb 22 08:31:52 2022       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 418.87.00    Driver Version: 470.57.02    CUDA Version: 11.4     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  Tesla V100-PCIE...  On   | 00000000:AF:00.0 Off |                    0 |
+| N/A   31C    P0    25W / 250W |      0MiB / 32510MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+[1645515112.934802] [dp-dam04:16449:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_0) returned 38: No space left on device
+[1645515112.938226] [dp-dam04:16449:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_1) returned 38: No space left on device
+[1645515112.978635] [dp-dam12:31331:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_0) returned 38: No space left on device
+[1645515112.982253] [dp-dam12:31331:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_1) returned 38: No space left on device
+[1645515112.986448] [dp-dam06:9358 :0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_0) returned 38: No space left on device
+[1645515112.989898] [dp-dam06:9358 :0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_1) returned 38: No space left on device
+[1645515112.991409] [dp-dam10:16333:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_0) returned 38: No space left on device
+[1645515112.995657] [dp-dam10:16333:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_1) returned 38: Protocol not supported
+[1645515113.015567] [dp-dam08:20878:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_0) returned 38: No space left on device
+[1645515113.019700] [dp-dam08:20878:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_1) returned 38: No space left on device
+[1645515113.065211] [dp-dam05:12462:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_0) returned 38: No space left on device
+[1645515113.068846] [dp-dam05:12462:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_1) returned 38: No space left on device
+[1645515113.077999] [dp-dam09:21418:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_0) returned 38: No space left on device
+[1645515113.078174] [dp-dam07:2905 :0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_0) returned 38: No space left on device
+[1645515113.081660] [dp-dam07:2905 :0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_1) returned 38: No space left on device
+[1645515113.094304] [dp-dam09:21418:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_1) returned 38: Protocol not supported
+[1645515113.096340] [dp-dam11:24701:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_0) returned 38: No space left on device
+[1645515113.100530] [dp-dam11:24701:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_1) returned 38: Protocol not supported

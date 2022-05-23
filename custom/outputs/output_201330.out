@@ -1,0 +1,124 @@
+Wed Feb 23 10:28:26 2022       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 418.87.00    Driver Version: 470.57.02    CUDA Version: 11.4     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  Tesla V100-PCIE...  On   | 00000000:65:00.0 Off |                    0 |
+| N/A   47C    P0    40W / 250W |    307MiB / 32510MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+|=============================================================================|
+|    0     14197      C   /opt/dcdb/bin/dcdbpusher                     303MiB |
++-----------------------------------------------------------------------------+
+[1645608508.963060] [dp-esb03:25036:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_0) returned 38: No space left on device
+Rank 0 - Image SARS-10.1148rg.242035193-g04mr34g0-Fig8c-day10.jpeg - Prediction 1 - Time 24.790128469467163
+Rank 0 - Image legionella-pneumonia-2.jpg - Prediction 2 - Time 4.821413040161133
+Rank 0 - Image wong-0000.jpg - Prediction 2 - Time 4.6702892780303955
+Rank 0 - Image wong-0002.jpg - Prediction 1 - Time 4.6417646408081055
+Rank 0 - Image 000004.jpg - Prediction 2 - Time 4.6879518032073975
+Rank 0 - Image 4c8dee3d9fe81567b98ed1b0b2b4c6_jumbo.JPG - Prediction 1 - Time 4.6425840854644775
+Rank 0 - Image 3e9d9c9b02b9bcd81c851134667e76_jumbo.jpg - Prediction 1 - Time 4.697297811508179
+Rank 0 - Image 1-s2.0-S0140673620303706-fx1_lrg.jpg - Prediction 2 - Time 4.653631925582886
+Rank 0 - Image nejmoa2001191_f3-PA.jpeg - Prediction 2 - Time 4.699670791625977
+Rank 0 - Image ryct.2020200028.fig1a.jpeg - Prediction 2 - Time 4.7232985496521
+Rank 0 - Image jkms-35-e79-g001-l-a.jpg - Prediction 2 - Time 4.657500743865967
+Rank 0 - Image all14238-fig-0001-m-b.jpg - Prediction 2 - Time 4.607862234115601
+Rank 0 - Image all14238-fig-0002-m-f.jpg - Prediction 2 - Time 4.59185004234314
+Rank 0 - Image ciaa199.pdf-001-b.png - Prediction 2 - Time 4.655419826507568
+Rank 0 - Image kjr-21-e24-g002-l-a.jpg - Prediction 2 - Time 4.672191619873047
+Rank 0 - Image gr1_lrg-a.jpg - Prediction 2 - Time 4.627898693084717
+Rank 0 - Image covid-19-pneumonia-30-PA.jpg - Prediction 2 - Time 4.780592918395996
+Rank 0 - Image 58cb9263f16e94305c730685358e4e_jumbo.jpeg - Prediction 2 - Time 4.6279706954956055
+Rank 0 - Image covid-19-pneumonia-rapidly-progressive-12-hours.jpg - Prediction 2 - Time 4.59554386138916
+Rank 0 - Image covid-19-pneumonia-rapidly-progressive-3-days.jpg - Prediction 2 - Time 4.648995637893677
+Rank 0 - Image covid-19-pneumonia-24-day7.jpg - Prediction 2 - Time 4.667938709259033
+Rank 0 - Image covid-19-pneumonia-24-day12.jpg - Prediction 2 - Time 4.7011919021606445
+Rank 0 - Image covid-19-pneumonia-40.jpg - Prediction 2 - Time 4.736846446990967
+Rank 0 - Image fff49165-b22d-4bb4-b9d1-d5d62c52436c.annot.original.png - Prediction 2 - Time 4.69510817527771
+Rank 0 - Image radiol.2020201160.fig2a.jpeg - Prediction 2 - Time 4.607714891433716
+Rank 0 - Image ryct.2020003.fig2-b.png - Prediction 2 - Time 4.656275033950806
+Rank 0 - Image ryct.2020003.fig2-c.png - Prediction 2 - Time 4.63294792175293
+Rank 0 - Image ajr.20.23034.pdf-001.png - Prediction 2 - Time 4.662530899047852
+Rank 0 - Image yxppt-2020-02-19_00-51-27_287214-day8.jpg - Prediction 2 - Time 4.553342580795288
+Rank 0 - Image yxppt-2020-02-19_00-51-27_287214-day12.jpg - Prediction 2 - Time 4.571717977523804
+Rank 0 - Image paving.jpg - Prediction 2 - Time 4.4264140129089355
+Rank 0 - Image extubation-1.jpg - Prediction 2 - Time 4.3967297077178955
+Rank 0 - Image covid-19-pneumonia-progression-and-regression-day13.jpg - Prediction 2 - Time 4.407296657562256
+Rank 0 - Image covid-19-pneumonia-progression-and-regression-day20.jpg - Prediction 2 - Time 4.4663286209106445
+Rank 0 - Image nejmoa2001017_f1-a.png - Prediction 2 - Time 4.379061937332153
+Rank 0 - Image 68_2020_1364_Fig1_HTML-b.png - Prediction 2 - Time 4.390151262283325
+Rank 0 - Image 270_2020_2470_Fig1_HTML-b.png - Prediction 2 - Time 4.3704118728637695
+Rank 0 - Image 11547_2020_1200_Fig3_HTML-a.png - Prediction 2 - Time 4.414414167404175
+Rank 0 - Image 1-s2.0-S0889159120306851-gr2b_lrg.jpg - Prediction 1 - Time 4.33858323097229
+Rank 0 - Image 1-s2.0-S1931312820301852-gr1_lrg-b.png - Prediction 2 - Time 4.407097816467285
+Rank 0 - Image 1-s2.0-S1931312820301852-gr1_lrg-c.png - Prediction 0 - Time 4.376784324645996
+Rank 0 - Image 10.1016-slash-j.hrcr.2020.04.015-b.png - Prediction 1 - Time 4.3396689891815186
+Rank 0 - Image 1-s2.0-S2214250920300706-gr5_lrg.jpg - Prediction 1 - Time 4.405384063720703
+Rank 0 - Image 1-s2.0-S1341321X20301124-gr3_lrg-d.png - Prediction 2 - Time 4.411024808883667
+Rank 0 - Image 1-s2.0-S1684118220300372-gr1_lrg-a.png - Prediction 2 - Time 4.4291605949401855
+Rank 0 - Image 1-s2.0-S2387020620301959-gr4_lrg-a.png - Prediction 2 - Time 4.604200124740601
+Rank 0 - Image 41379_2020_536_Fig2_HTML-c2.png - Prediction 1 - Time 4.595552682876587
+Rank 0 - Image 41182_2020_203_Fig3_HTML.jpg - Prediction 2 - Time 4.54529595375061
+Rank 0 - Image lightbox_78f27a80685411ea93cde791fb7cd172-CXR.png - Prediction 1 - Time 5.247049331665039
+Rank 0 - Image article_river_1a00a3c07ea311eab70491c6fb93d336-figure-2.png - Prediction 2 - Time 5.548882961273193
+Rank 0 - Image 08ed451c576ee00935ee178ec85c57_jumbo-1.jpeg - Prediction 2 - Time 5.08977198600769
+Rank 0 - Image 0a6c60063b4bae4de001caaba306d1_jumbo.jpeg - Prediction 2 - Time 4.438361167907715
+Rank 0 - Image a1fec23b293dfe7876660cb7acce43_jumbo.jpeg - Prediction 2 - Time 4.501413106918335
+Rank 0 - Image 78b60346d1b3bce85353b6dc462d75_jumbo.jpeg - Prediction 2 - Time 4.414531230926514
+Rank 0 - Image f44373474437c99b2740062c914438_jumbo.jpeg - Prediction 2 - Time 4.48482608795166
+Rank 0 - Image 50e51fcefaa760d0757eeae6eb0858_jumbo.jpeg - Prediction 2 - Time 4.417062520980835
+Rank 0 - Image ansu-publish-ahead-of-print-10.1097.sla.0000000000003955-g001-f.png - Prediction 1 - Time 4.4743874073028564
+Rank 0 - Image 3c48faa5dc2f1540fda696bae045ba_jumbo.jpeg - Prediction 2 - Time 4.433631658554077
+Rank 0 - Image 81af553601a1bc1fdf81c99436a50b_jumbo.jpeg - Prediction 2 - Time 4.473498582839966
+Rank 0 - Image 882fd7ec99b523aead995d78f3129f_jumbo.jpeg - Prediction 2 - Time 4.42577338218689
+Rank 0 - Image COVID-00006.jpg - Prediction 2 - Time 4.564499378204346
+Rank 0 - Image COVID-00021.jpg - Prediction 2 - Time 4.412601709365845
+Rank 0 - Image COVID-00043a.jpg - Prediction 1 - Time 4.484726667404175
+Rank 0 - Image CR.1.2.840.113564.1722810170.20200320170359875720.1003000225002.png - Prediction 1 - Time 4.497706651687622
+Rank 0 - Image DX.1.2.840.113564.1722810162.202003241226081857.1203801020003.png - Prediction 0 - Time 4.577677965164185
+Rank 0 - Image DX.1.2.840.113564.1722810162.20200405142816863980.1203801020003.png - Prediction 2 - Time 4.565715551376343
+Rank 0 - Image COVID(7).png - Prediction 0 - Time 4.51507568359375
+Rank 0 - Image COVID(8).png - Prediction 0 - Time 4.406050205230713
+Rank 0 - Image COVID(17).png - Prediction 2 - Time 4.473932504653931
+Rank 0 - Image COVID(32).png - Prediction 2 - Time 4.419264316558838
+Rank 0 - Image COVID(34).png - Prediction 0 - Time 4.411298036575317
+Rank 0 - Image COVID(36).png - Prediction 2 - Time 4.46766209602356
+Rank 0 - Image COVID(45).png - Prediction 2 - Time 4.4882729053497314
+Rank 0 - Image COVID(52).png - Prediction 2 - Time 4.424952983856201
+Rank 0 - Image COVID(54).png - Prediction 2 - Time 4.496454477310181
+Rank 0 - Image COVID(59).png - Prediction 2 - Time 4.403733015060425
+Rank 0 - Image COVID(60).png - Prediction 2 - Time 4.397545576095581
+Rank 0 - Image COVID(67).png - Prediction 2 - Time 4.482929706573486
+Rank 0 - Image COVID(68).png - Prediction 2 - Time 4.387789487838745
+Rank 0 - Image COVID(69).png - Prediction 2 - Time 4.480386018753052
+Rank 0 - Image COVID(73).png - Prediction 2 - Time 4.401134967803955
+Rank 0 - Image COVID(74).png - Prediction 2 - Time 4.451487064361572
+Rank 0 - Image COVID(75).png - Prediction 2 - Time 4.442920684814453
+Rank 0 - Image COVID(82).png - Prediction 2 - Time 4.4534995555877686
+Rank 0 - Image COVID(88).png - Prediction 2 - Time 4.407567501068115
+Rank 0 - Image COVID(89).png - Prediction 2 - Time 4.466551780700684
+Rank 0 - Image COVID(93).png - Prediction 2 - Time 4.400423526763916
+Rank 0 - Image COVID(101).png - Prediction 0 - Time 4.473188877105713
+Rank 0 - Image COVID(104).png - Prediction 2 - Time 4.404334783554077
+Rank 0 - Image COVID(112).png - Prediction 2 - Time 4.470579624176025
+Rank 0 - Image COVID(122).png - Prediction 2 - Time 4.379088640213013
+Rank 0 - Image COVID(128).png - Prediction 2 - Time 4.454975366592407
+Rank 0 - Image COVID(130).png - Prediction 2 - Time 4.397331237792969
+Rank 0 - Image COVID(137).png - Prediction 1 - Time 4.457489252090454
+Rank 0 - Image COVID(145).png - Prediction 2 - Time 4.4620466232299805
+Rank 0 - Image COVID(149).png - Prediction 2 - Time 4.4353554248809814
+Rank 0 - Image COVID(151).png - Prediction 2 - Time 4.327911615371704
+Rank 0 - Image COVID(152).png - Prediction 2 - Time 4.404305934906006
+Rank 0 - Image COVID(156).png - Prediction 2 - Time 4.307613849639893
+Rank 0 - Image COVID(163).png - Prediction 2 - Time 4.303628206253052
+Rank 0 - Image COVID(166).png - Prediction 2 - Time 4.370580673217773
+Rank 0 - Image COVID(180).png - Prediction 2 - Time 4.40711522102356
+Rank 0 - Image COVID(182).png - Prediction 2 - Time 4.387401103973389
+Rank 0 - Image COVID(188).png - Prediction 2 - Time 4.404041528701782
+Rank 0 - Image COVID(197).png - Prediction 2 - Time 4.331820964813232
+Rank 0 - Image COVID(199).png - Prediction 2 - Time 4.313891887664795

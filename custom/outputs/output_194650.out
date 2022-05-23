@@ -1,0 +1,49 @@
+Tue Nov 30 10:01:21 2021       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 418.87.00    Driver Version: 418.87.00    CUDA Version: 10.1     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  Tesla V100-PCIE...  On   | 00000000:AF:00.0 Off |                    0 |
+| N/A   37C    P0    27W / 250W |      0MiB / 32480MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000106-15732-0.png - Prediction COVID-19 - Time 24.242175340652466
+Rank 2 - Image 47c78742-4998-4878-aec4-37b11b1354ac.png - Prediction normal - Time 24.91188406944275
+Rank 3 - Image bd8facb9-dce0-4048-8249-e6078b28e1b7.png - Prediction pneumonia - Time 25.14513087272644
+Rank 0 - Image MIDRC-RICORD-1C-419639-003251-46647-0.png - Prediction COVID-19 - Time 25.709681510925293
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000297-71173-1.png - Prediction COVID-19 - Time 19.808809518814087
+Rank 2 - Image 8989e25c-a698-48fc-b428-fff56931fc8f.png - Prediction normal - Time 19.951225996017456
+Rank 3 - Image 4dbc44ca-694a-4814-9a24-bc60c8d8d611.png - Prediction pneumonia - Time 20.11815857887268
+Rank 0 - Image MIDRC-RICORD-1C-419639-001464-39871-0.png - Prediction COVID-19 - Time 20.239936113357544
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000204-24409-0.png - Prediction COVID-19 - Time 19.23314380645752
+Rank 2 - Image 7fb3786c-5045-4a90-981d-c55b53d4d5d3.png - Prediction normal - Time 19.225537061691284
+Rank 3 - Image 3f504abe-2133-4e09-98af-743cdea486f9.png - Prediction pneumonia - Time 19.206209897994995
+Rank 0 - Image MIDRC-RICORD-1C-419639-000918-78965-0.png - Prediction COVID-19 - Time 19.59786057472229
+Rank 1 - Image MIDRC-RICORD-1C-419639-001464-82193-0.png - Prediction COVID-19 - Time 19.58148741722107
+Rank 2 - Image 766b8aea-3b43-4a34-b675-09f373ca066b.png - Prediction normal - Time 19.649513244628906
+Rank 3 - Image af169d21-1c39-445e-82d8-5035182a3a8c.png - Prediction pneumonia - Time 19.76756525039673
+Rank 0 - Image MIDRC-RICORD-1C-419639-003318-64285-0.png - Prediction COVID-19 - Time 20.006884813308716
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000058-42859-0.png - Prediction COVID-19 - Time 19.25958824157715
+Rank 2 - Image f6236cb5-cc36-4ec4-895c-d11ce043341d.png - Prediction normal - Time 19.099990129470825
+Rank 3 - Image fcd159f4-21d3-4169-a94b-95a2b5ccddcb.png - Prediction pneumonia - Time 19.193121910095215
+Rank 0 - Image MIDRC-RICORD-1C-419639-001015-81591-0.png - Prediction COVID-19 - Time 19.38338327407837
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000149-71428-1.png - Prediction COVID-19 - Time 20.00712275505066
+Rank 2 - Image 153b7c2b-4909-4dca-8579-9523582bc4fe.png - Prediction normal - Time 19.58184576034546
+Rank 3 - Image b6db3041-1554-43ef-baca-58733b6717d6.png - Prediction normal - Time 19.27695631980896
+Rank 0 - Image MIDRC-RICORD-1C-SITE2-000265-99793-1.png - Prediction COVID-19 - Time 19.57423710823059
+Rank 1 - Image MIDRC-RICORD-1C-419639-002281-83348-0.png - Prediction COVID-19 - Time 19.70367670059204
+Rank 2 - Image 1afd6582-da9d-4e5a-a81f-62a188fe9366.png - Prediction normal - Time 19.84740662574768
+Rank 3 - Image a0a8370a-dc3f-4f70-a440-e3fa9827928a.png - Prediction pneumonia - Time 19.638432502746582
+Rank 0 - Image MIDRC-RICORD-1C-SITE2-000159-61155-0.png - Prediction COVID-19 - Time 19.800572633743286
+Rank 1 - Image MIDRC-RICORD-1C-419639-002733-79941-0.png - Prediction COVID-19 - Time 19.655817985534668
+Rank 3 - Image 1dad3414-88c9-4c56-af5d-3a1488af452c.png - Prediction pneumonia - Time 19.352617740631104
+Rank 2 - Image 85bb48fe-e6d6-47de-bb71-d1636aced7dc.png - Prediction normal - Time 19.73336696624756
+Rank 0 - Image MIDRC-RICORD-1C-419639-003169-42019-0.png - Prediction normal - Time 19.578879833221436

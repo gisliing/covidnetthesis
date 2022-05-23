@@ -1,0 +1,7 @@
+        Preparing the environment for use of requested stage ( Devel-2019a ).
+     
+Traceback (most recent call last):
+  File "custom_inference_deep.py", line 14, in <module>
+    from COVID_Net.data import process_image_file
+ModuleNotFoundError: No module named 'COVID_Net'
+srun: error: ml-gpu01: task 0: Exited with exit code 1

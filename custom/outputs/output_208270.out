@@ -1,0 +1,39 @@
+Thu Mar 31 09:48:28 2022       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 418.87.00    Driver Version: 470.57.02    CUDA Version: 11.4     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  Tesla V100-PCIE...  On   | 00000000:3B:00.0 Off |                    0 |
+| N/A   30C    P0    27W / 250W |      0MiB / 32510MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+|   1  Tesla V100-PCIE...  On   | 00000000:AF:00.0 Off |                    0 |
+| N/A   28C    P0    25W / 250W |      0MiB / 32510MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+[1648712914.280095] [dp-dam09:26791:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_0) returned 38: No space left on device
+[1648712914.284155] [dp-dam09:26791:0]          ib_md.c:1948 UCX  ERROR ibv_query_device(mlx5_1) returned 38: Protocol not supported
+Rank 0 - Image MIDRC-RICORD-1C-419639-003251-46647-0.png - Prediction 2 - Time 400.63877725601196
+Rank 0 - Image MIDRC-RICORD-1C-419639-001464-39871-0.png - Prediction 1 - Time 9.599178075790405
+Rank 0 - Image MIDRC-RICORD-1C-419639-000918-78965-0.png - Prediction 2 - Time 9.902299880981445
+Rank 0 - Image MIDRC-RICORD-1C-419639-003318-64285-0.png - Prediction 2 - Time 9.318389654159546
+Rank 0 - Image MIDRC-RICORD-1C-419639-001015-81591-0.png - Prediction 0 - Time 9.096276998519897
+Rank 0 - Image MIDRC-RICORD-1C-SITE2-000265-99793-1.png - Prediction 2 - Time 9.498101472854614
+Rank 0 - Image MIDRC-RICORD-1C-SITE2-000159-61155-0.png - Prediction 2 - Time 9.559611797332764
+Rank 0 - Image MIDRC-RICORD-1C-419639-003169-42019-0.png - Prediction 0 - Time 8.642214298248291
+Rank 0 - Image MIDRC-RICORD-1C-SITE2-000238-25854-1.png - Prediction 2 - Time 11.542403936386108
+Rank 0 - Image MIDRC-RICORD-1C-419639-001464-33260-0.png - Prediction 2 - Time 6.437647581100464
+Rank 0 - Image MIDRC-RICORD-1C-SITE2-000018-55212-0.png - Prediction 2 - Time 7.35873818397522
+Rank 0 - Image MIDRC-RICORD-1C-419639-000025-50888-0.png - Prediction 2 - Time 7.966461896896362
+Rank 0 - Image MIDRC-RICORD-1C-419639-001288-10277-0.png - Prediction 2 - Time 9.13581132888794
+Rank 0 - Image MIDRC-RICORD-1C-419639-002757-16718-0.png - Prediction 2 - Time 9.608228921890259
+Rank 0 - Image MIDRC-RICORD-1C-SITE2-000135-64564-1.png - Prediction 2 - Time 10.225762367248535
+Rank 0 - Image MIDRC-RICORD-1C-SITE2-000147-13199-0.png - Prediction 2 - Time 10.768836975097656
+Rank 0 - Image MIDRC-RICORD-1C-419639-002601-92699-0.png - Prediction 2 - Time 9.874330520629883

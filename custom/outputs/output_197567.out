@@ -1,0 +1,66 @@
+Tue Jan 18 18:08:29 2022       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 418.87.00    Driver Version: 418.87.00    CUDA Version: 10.1     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  Tesla V100-PCIE...  On   | 00000000:AF:00.0 Off |                    0 |
+| N/A   30C    P0    25W / 250W |      0MiB / 32480MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+Rank 3 - Image bd8facb9-dce0-4048-8249-e6078b28e1b7.png - Prediction 1 - Time 11.39788007736206
+Rank 0 - Image MIDRC-RICORD-1C-419639-003251-46647-0.png - Prediction 2 - Time 15.279545307159424
+Rank 2 - Image 47c78742-4998-4878-aec4-37b11b1354ac.png - Prediction 0 - Time 15.338625431060791
+Rank 3 - Image 4dbc44ca-694a-4814-9a24-bc60c8d8d611.png - Prediction 1 - Time 7.704446077346802
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000106-15732-0.png - Prediction 2 - Time 11.182143211364746
+Rank 2 - Image 8989e25c-a698-48fc-b428-fff56931fc8f.png - Prediction 0 - Time 8.008135080337524
+Rank 0 - Image MIDRC-RICORD-1C-419639-001464-39871-0.png - Prediction 1 - Time 8.110852003097534
+Rank 3 - Image 3f504abe-2133-4e09-98af-743cdea486f9.png - Prediction 1 - Time 6.855204343795776
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000297-71173-1.png - Prediction 2 - Time 8.364962339401245
+Rank 2 - Image 7fb3786c-5045-4a90-981d-c55b53d4d5d3.png - Prediction 0 - Time 7.816215515136719
+Rank 0 - Image MIDRC-RICORD-1C-419639-000918-78965-0.png - Prediction 2 - Time 8.058129787445068
+Rank 3 - Image af169d21-1c39-445e-82d8-5035182a3a8c.png - Prediction 1 - Time 6.889619827270508
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000204-24409-0.png - Prediction 1 - Time 8.425089836120605
+Rank 2 - Image 766b8aea-3b43-4a34-b675-09f373ca066b.png - Prediction 0 - Time 7.590979337692261
+Rank 3 - Image fcd159f4-21d3-4169-a94b-95a2b5ccddcb.png - Prediction 1 - Time 6.766223430633545
+Rank 0 - Image MIDRC-RICORD-1C-419639-003318-64285-0.png - Prediction 2 - Time 8.20766568183899
+Rank 1 - Image MIDRC-RICORD-1C-419639-001464-82193-0.png - Prediction 2 - Time 7.0601866245269775
+Rank 3 - Image b6db3041-1554-43ef-baca-58733b6717d6.png - Prediction 0 - Time 6.6762096881866455
+Rank 2 - Image f6236cb5-cc36-4ec4-895c-d11ce043341d.png - Prediction 0 - Time 8.019818544387817
+Rank 0 - Image MIDRC-RICORD-1C-419639-001015-81591-0.png - Prediction 0 - Time 8.071335315704346
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000058-42859-0.png - Prediction 2 - Time 6.96462082862854
+Rank 3 - Image a0a8370a-dc3f-4f70-a440-e3fa9827928a.png - Prediction 1 - Time 6.701680898666382
+Rank 0 - Image MIDRC-RICORD-1C-SITE2-000265-99793-1.png - Prediction 2 - Time 7.1052587032318115
+Rank 2 - Image 153b7c2b-4909-4dca-8579-9523582bc4fe.png - Prediction 0 - Time 8.21774435043335
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000149-71428-1.png - Prediction 2 - Time 8.06380844116211
+Rank 3 - Image 1dad3414-88c9-4c56-af5d-3a1488af452c.png - Prediction 1 - Time 6.717560291290283
+Rank 2 - Image 1afd6582-da9d-4e5a-a81f-62a188fe9366.png - Prediction 0 - Time 7.881113767623901
+Rank 0 - Image MIDRC-RICORD-1C-SITE2-000159-61155-0.png - Prediction 2 - Time 8.27323055267334
+Rank 3 - Image f760c946-a103-4991-a6e5-ff60c24cd99f.png - Prediction 1 - Time 6.7778236865997314
+Rank 1 - Image MIDRC-RICORD-1C-419639-002281-83348-0.png - Prediction 2 - Time 8.145271301269531
+Rank 2 - Image 85bb48fe-e6d6-47de-bb71-d1636aced7dc.png - Prediction 0 - Time 8.018714427947998
+Rank 0 - Image MIDRC-RICORD-1C-419639-003169-42019-0.png - Prediction 0 - Time 7.801079034805298
+Rank 3 - Image b021293c-4dd0-450c-b1a4-2d72cedab0a2.png - Prediction 1 - Time 6.701799154281616
+Rank 1 - Image MIDRC-RICORD-1C-419639-002733-79941-0.png - Prediction 2 - Time 8.090992450714111
+Rank 2 - Image eaeb935a-7294-4dd3-8bf5-73ba781d28af.png - Prediction 0 - Time 8.022564172744751
+Rank 0 - Image MIDRC-RICORD-1C-SITE2-000238-25854-1.png - Prediction 2 - Time 8.044291734695435
+Rank 3 - Image 349f10b4-dc3e-4f3f-b2e4-a5b81448ce87.png - Prediction 1 - Time 6.7018749713897705
+Rank 1 - Image MIDRC-RICORD-1C-419639-000025-81112-0.png - Prediction 2 - Time 8.366852760314941
+Rank 3 - Image 05d3817a-5535-4e77-8dda-d4412e496c81.png - Prediction 1 - Time 6.543422222137451
+Rank 0 - Image MIDRC-RICORD-1C-419639-001464-33260-0.png - Prediction 2 - Time 7.954556941986084
+Rank 2 - Image 5f137fa7-6539-499e-b0d5-0e481221bf5a.png - Prediction 1 - Time 8.156911611557007
+Rank 1 - Image MIDRC-RICORD-1C-419639-003186-86346-0.png - Prediction 2 - Time 7.743822336196899
+Rank 3 - Image c21157da-1f74-4966-ba4e-c144d8f5da2d.png - Prediction 1 - Time 6.699834823608398
+Rank 2 - Image b5234584-1487-492c-8742-444b9ca41c3d.png - Prediction 0 - Time 7.979966163635254
+Rank 0 - Image MIDRC-RICORD-1C-SITE2-000018-55212-0.png - Prediction 2 - Time 8.744590759277344
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000237-52517-0.png - Prediction 0 - Time 7.7823405265808105
+Rank 3 - Image 5acc56a4-1b6e-4394-9364-9772047d583f.png - Prediction 2 - Time 6.654555797576904
+Rank 2 - Image 71d8d6ec-253b-4272-a467-311828b2a35b.png - Prediction 0 - Time 7.426873445510864
+Rank 0 - Image MIDRC-RICORD-1C-419639-000025-50888-0.png - Prediction 2 - Time 7.822787523269653

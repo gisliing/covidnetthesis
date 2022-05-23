@@ -1,0 +1,11 @@
+Rank: 2 - my data: [3]
+Rank: 2 - working on datapoint 3
+Rank: 3 - my data: [4]
+Rank: 1 - my data: [2]
+Rank: 1 - working on datapoint 2
+Rank: 3 - working on datapoint 4
+Rank: 0 - my data: [0 1]
+Rank: 0 - working on datapoint 0
+Rank: 0 - working on datapoint 1
+Rank 0 - gathering data: [array([[ 0., 99.],
+       [ 1., 99.]]), array([[ 2., 99.]]), array([[ 3., 99.]]), array([[ 4., 99.]])]

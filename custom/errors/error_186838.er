@@ -1,0 +1,7 @@
+        Preparing the environment for use of requested stage ( Devel-2019a ).
+     
+  File "custom_inference_deep.py", line 64
+    pred = predict(image, split))
+                                ^
+TabError: inconsistent use of tabs and spaces in indentation
+srun: error: ml-gpu01: task 0: Exited with exit code 1

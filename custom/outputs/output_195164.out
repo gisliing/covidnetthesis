@@ -1,0 +1,40 @@
+Sat Dec  4 15:13:17 2021       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 418.87.00    Driver Version: 418.87.00    CUDA Version: 10.1     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  Tesla V100-PCIE...  On   | 00000000:AF:00.0 Off |                    0 |
+| N/A   29C    P0    26W / 250W |      0MiB / 32480MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+Rank 0 - Image MIDRC-RICORD-1C-419639-003251-46647-0.png - Prediction COVID-19 - Time 31.933915615081787
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000159-61155-0.png - Prediction COVID-19 - Time 35.25102162361145
+Rank 0 - Image MIDRC-RICORD-1C-419639-001464-39871-0.png - Prediction COVID-19 - Time 20.793574810028076
+Rank 1 - Image MIDRC-RICORD-1C-419639-003169-42019-0.png - Prediction normal - Time 24.68783402442932
+Rank 0 - Image MIDRC-RICORD-1C-419639-000918-78965-0.png - Prediction COVID-19 - Time 20.006770133972168
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000238-25854-1.png - Prediction COVID-19 - Time 24.478995323181152
+Rank 0 - Image MIDRC-RICORD-1C-419639-003318-64285-0.png - Prediction COVID-19 - Time 21.18360424041748
+Rank 1 - Image MIDRC-RICORD-1C-419639-001464-33260-0.png - Prediction COVID-19 - Time 25.518610954284668
+Rank 0 - Image MIDRC-RICORD-1C-419639-001015-81591-0.png - Prediction COVID-19 - Time 20.346110343933105
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000018-55212-0.png - Prediction COVID-19 - Time 24.595914363861084
+Rank 0 - Image MIDRC-RICORD-1C-SITE2-000265-99793-1.png - Prediction COVID-19 - Time 20.69621205329895
+Rank 0 - gathering data of length: 2
+
+[array([['0', 'COVID-19', '31.933915615081787'],
+       ['1', 'COVID-19', '20.793574810028076'],
+       ['2', 'COVID-19', '20.006770133972168'],
+       ['3', 'COVID-19', '21.18360424041748'],
+       ['4', 'COVID-19', '20.346110343933105'],
+       ['5', 'COVID-19', '20.69621205329895']], dtype='<U32'), array([['6', 'COVID-19', '35.25102162361145'],
+       ['7', 'normal', '24.68783402442932'],
+       ['8', 'COVID-19', '24.478995323181152'],
+       ['9', 'COVID-19', '25.518610954284668'],
+       ['10', 'COVID-19', '24.595914363861084']], dtype='<U32')]

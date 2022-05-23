@@ -1,0 +1,41 @@
+Sat Dec  4 15:34:14 2021       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 418.87.00    Driver Version: 418.87.00    CUDA Version: 10.1     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  Tesla V100-PCIE...  On   | 00000000:AF:00.0 Off |                    0 |
+| N/A   29C    P0    26W / 250W |      0MiB / 32480MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+Rank 0 - Image MIDRC-RICORD-1C-419639-003251-46647-0.png - Prediction 2 - Time 25.509724140167236
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000159-61155-0.png - Prediction 2 - Time 30.347550630569458
+Rank 0 - Image MIDRC-RICORD-1C-419639-001464-39871-0.png - Prediction 2 - Time 19.77530074119568
+Rank 1 - Image MIDRC-RICORD-1C-419639-003169-42019-0.png - Prediction 0 - Time 24.642379999160767
+Rank 0 - Image MIDRC-RICORD-1C-419639-000918-78965-0.png - Prediction 2 - Time 20.20554757118225
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000238-25854-1.png - Prediction 2 - Time 24.68530297279358
+Rank 0 - Image MIDRC-RICORD-1C-419639-003318-64285-0.png - Prediction 2 - Time 20.957653045654297
+Rank 1 - Image MIDRC-RICORD-1C-419639-001464-33260-0.png - Prediction 2 - Time 25.299411058425903
+Rank 0 - Image MIDRC-RICORD-1C-419639-001015-81591-0.png - Prediction 2 - Time 19.225698709487915
+Rank 0 - Image MIDRC-RICORD-1C-SITE2-000265-99793-1.png - Prediction 2 - Time 19.326822996139526
+Rank 1 - Image MIDRC-RICORD-1C-SITE2-000018-55212-0.png - Prediction 2 - Time 24.228877067565918
+Rank 0 - gathering data of length: 2
+
+[[ 0.          2.         25.50972414]
+ [ 1.          2.         19.77530074]
+ [ 2.          2.         20.20554757]
+ [ 3.          2.         20.95765305]
+ [ 4.          2.         19.22569871]
+ [ 5.          2.         19.326823  ]
+ [ 6.          2.         30.34755063]
+ [ 7.          0.         24.64238   ]
+ [ 8.          2.         24.68530297]
+ [ 9.          2.         25.29941106]
+ [10.          2.         24.22887707]]

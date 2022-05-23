@@ -1,0 +1,29 @@
+Sun Jan  2 17:58:50 2022       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 418.87.00    Driver Version: 418.87.00    CUDA Version: 10.1     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  Tesla V100-PCIE...  On   | 00000000:AF:00.0 Off |                    0 |
+| N/A   36C    P0    41W / 250W |      0MiB / 32480MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+0/5 working on job 0
+1/5 working on job 1
+2/5 working on job 2
+4/5 working on job 4
+3/5 working on job 3
+5/5 working on job 5
+Output: /p/project/joaiml/ingolfsson1/COVID_Net/output/COVIDNet-lr0.0002
+Output: /p/project/joaiml/ingolfsson1/COVID_Net/output/COVIDNet-lr0.0002
+Output: /p/project/joaiml/ingolfsson1/COVID_Net/output/COVIDNet-lr0.0002
+Output: /p/project/joaiml/ingolfsson1/COVID_Net/output/COVIDNet-lr0.0002
+Output: /p/project/joaiml/ingolfsson1/COVID_Net/output/COVIDNet-lr0.0002
+Output: /p/project/joaiml/ingolfsson1/COVID_Net/output/COVIDNet-lr0.0002

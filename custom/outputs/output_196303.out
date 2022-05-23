@@ -1,0 +1,234 @@
+Wed Dec 22 09:10:11 2021       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 418.87.00    Driver Version: 418.87.00    CUDA Version: 10.1     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  Tesla V100-PCIE...  On   | 00000000:AF:00.0 Off |                    0 |
+| N/A   31C    P0    26W / 250W |      0MiB / 32480MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+0/1 working on job 0
+1/1 working on job 3
+Output: /p/project/joaiml/ingolfsson1/COVID_Net/output/COVIDNet-lr0.0002
+Output: /p/project/joaiml/ingolfsson1/COVID_Net/output/COVIDNet-lr0.0002
+8 10
+8 10
+Saved baseline checkpoint
+Baseline eval:
+Saved baseline checkpoint
+Baseline eval:
+[[ 0.  1.  2.]
+ [ 3.  2.  8.]
+ [ 1.  3. 35.]]
+Sens Normal: 0.000, Pneumonia: 0.154, Covid-19: 0.897
+PPV Normal: 0.000, Pneumonia: 0.333, Covid-19: 0.778
+Training started
+[[ 0.  1.  2.]
+ [ 3.  2.  8.]
+ [ 1.  3. 35.]]
+Sens Normal: 0.000, Pneumonia: 0.154, Covid-19: 0.897
+PPV Normal: 0.000, Pneumonia: 0.333, Covid-19: 0.778
+Training started
+1/2 [==============>...............] - ETA: 7s2/2 [==============================] - 8s 4s/step
+Epoch: 0001 Minibatch loss= 3.272602081
+1/2 [==============>...............] - ETA: 7s2/2 [==============================] - 7s 4s/step
+[[ 0.  0.  3.]
+ [ 3.  0. 10.]
+ [ 0.  1. 38.]]
+Sens Normal: 0.000, Pneumonia: 0.000, Covid-19: 0.974
+PPV Normal: 0.000, Pneumonia: 0.000, Covid-19: 0.745
+Epoch: 0001 Minibatch loss= 62.683105469
+[[ 0.  0.  3.]
+ [ 3.  0. 10.]
+ [ 1.  1. 37.]]
+Sens Normal: 0.000, Pneumonia: 0.000, Covid-19: 0.949
+PPV Normal: 0.000, Pneumonia: 0.000, Covid-19: 0.740
+Saving checkpoint at epoch 1
+1/2 [==============>...............] - ETA: 19s  2/2 [==============================] - 19s 10s/step
+Epoch: 0002 Minibatch loss= 4.121681213
+Saving checkpoint at epoch 1
+[[ 0.  0.  3.]
+ [ 0.  0. 13.]
+ [ 0.  0. 39.]]
+Sens Normal: 0.000, Pneumonia: 0.000, Covid-19: 1.000
+PPV Normal: 0.000, Pneumonia: 0.000, Covid-19: 0.709
+1/2 [==============>...............] - ETA: 18s  2/2 [==============================] - 19s 9s/step
+Epoch: 0002 Minibatch loss= 53.011981964
+[[ 0.  0.  3.]
+ [ 2.  0. 11.]
+ [ 0.  1. 38.]]
+Sens Normal: 0.000, Pneumonia: 0.000, Covid-19: 0.974
+PPV Normal: 0.000, Pneumonia: 0.000, Covid-19: 0.731
+Saving checkpoint at epoch 2
+1/2 [==============>...............] - ETA: 28s    2/2 [==============================] - 29s 15s/step
+Epoch: 0003 Minibatch loss= 5.261009216
+Saving checkpoint at epoch 2
+1/2 [==============>...............] - ETA: 28s   2/2 [==============================] - 28s 14s/step
+Epoch: 0003 Minibatch loss= 12.206202507
+[[ 0.  0.  3.]
+ [ 0.  0. 13.]
+ [ 0.  0. 39.]]
+Sens Normal: 0.000, Pneumonia: 0.000, Covid-19: 1.000
+PPV Normal: 0.000, Pneumonia: 0.000, Covid-19: 0.709
+[[ 0.  0.  3.]
+ [ 0.  0. 13.]
+ [ 0.  0. 39.]]
+Sens Normal: 0.000, Pneumonia: 0.000, Covid-19: 1.000
+PPV Normal: 0.000, Pneumonia: 0.000, Covid-19: 0.709
+Saving checkpoint at epoch 3
+Optimization Finished!
+1/1 working on job 4
+Output: /p/project/joaiml/ingolfsson1/COVID_Net/output/COVIDNet-lr0.0002
+8 10
+Saving checkpoint at epoch 3
+Optimization Finished!
+0/1 working on job 1
+Output: /p/project/joaiml/ingolfsson1/COVID_Net/output/COVIDNet-lr0.0002
+8 10
+Saved baseline checkpoint
+Baseline eval:
+Saved baseline checkpoint
+Baseline eval:
+[[ 0.  1.  2.]
+ [ 3.  2.  8.]
+ [ 1.  3. 35.]]
+Sens Normal: 0.000, Pneumonia: 0.154, Covid-19: 0.897
+PPV Normal: 0.000, Pneumonia: 0.333, Covid-19: 0.778
+Training started
+1/2 [==============>...............] - ETA: 9s2/2 [==============================] - 10s 5s/step
+Epoch: 0001 Minibatch loss= 29.018747330
+[[ 0.  1.  2.]
+ [ 3.  2.  8.]
+ [ 1.  3. 35.]]
+Sens Normal: 0.000, Pneumonia: 0.154, Covid-19: 0.897
+PPV Normal: 0.000, Pneumonia: 0.333, Covid-19: 0.778
+Training started
+[[ 0.  1.  2.]
+ [ 3.  3.  7.]
+ [ 1.  1. 37.]]
+Sens Normal: 0.000, Pneumonia: 0.231, Covid-19: 0.949
+PPV Normal: 0.000, Pneumonia: 0.600, Covid-19: 0.804
+1/2 [==============>...............] - ETA: 8s2/2 [==============================] - 10s 5s/step
+Epoch: 0001 Minibatch loss= 0.699055314
+[[ 0.  0.  3.]
+ [ 2.  1. 10.]
+ [ 0.  1. 38.]]
+Sens Normal: 0.000, Pneumonia: 0.077, Covid-19: 0.974
+PPV Normal: 0.000, Pneumonia: 0.500, Covid-19: 0.745
+Saving checkpoint at epoch 1
+1/2 [==============>...............] - ETA: 43s   2/2 [==============================] - 44s 22s/step
+Epoch: 0002 Minibatch loss= 3.765231371
+[[ 0.  1.  2.]
+ [ 3.  2.  8.]
+ [ 0.  1. 38.]]
+Sens Normal: 0.000, Pneumonia: 0.154, Covid-19: 0.974
+PPV Normal: 0.000, Pneumonia: 0.500, Covid-19: 0.792
+Saving checkpoint at epoch 1
+1/2 [==============>...............] - ETA: 26s   2/2 [==============================] - 27s 14s/step
+Epoch: 0002 Minibatch loss= 1.739742517
+[[ 0.  0.  3.]
+ [ 3.  0. 10.]
+ [ 0.  0. 39.]]
+Sens Normal: 0.000, Pneumonia: 0.000, Covid-19: 1.000
+PPV Normal: 0.000, Pneumonia: 0.000, Covid-19: 0.750
+Saving checkpoint at epoch 2
+1/2 [==============>...............] - ETA: 53s    2/2 [==============================] - 54s 27s/step
+Epoch: 0003 Minibatch loss= 2.182864666
+Saving checkpoint at epoch 2
+1/2 [==============>...............] - ETA: 36s    2/2 [==============================] - 36s 18s/step
+Epoch: 0003 Minibatch loss= 1.353465319
+[[ 0.  1.  2.]
+ [ 3.  2.  8.]
+ [ 0.  0. 39.]]
+Sens Normal: 0.000, Pneumonia: 0.154, Covid-19: 1.000
+PPV Normal: 0.000, Pneumonia: 0.667, Covid-19: 0.796
+[[ 0.  0.  3.]
+ [ 2.  1. 10.]
+ [ 0.  0. 39.]]
+Sens Normal: 0.000, Pneumonia: 0.077, Covid-19: 1.000
+PPV Normal: 0.000, Pneumonia: 1.000, Covid-19: 0.750
+Saving checkpoint at epoch 3
+Optimization Finished!
+0/1 working on job 2
+Output: /p/project/joaiml/ingolfsson1/COVID_Net/output/COVIDNet-lr0.0002
+8 10
+Saving checkpoint at epoch 3
+Optimization Finished!
+1/1 working on job 5
+Output: /p/project/joaiml/ingolfsson1/COVID_Net/output/COVIDNet-lr0.0002
+8 10
+Saved baseline checkpoint
+Baseline eval:
+Saved baseline checkpoint
+Baseline eval:
+[[ 0.  1.  2.]
+ [ 3.  2.  8.]
+ [ 1.  3. 35.]]
+Sens Normal: 0.000, Pneumonia: 0.154, Covid-19: 0.897
+PPV Normal: 0.000, Pneumonia: 0.333, Covid-19: 0.778
+Training started
+[[ 0.  1.  2.]
+ [ 3.  2.  8.]
+ [ 1.  3. 35.]]
+Sens Normal: 0.000, Pneumonia: 0.154, Covid-19: 0.897
+PPV Normal: 0.000, Pneumonia: 0.333, Covid-19: 0.778
+Training started
+1/2 [==============>...............] - ETA: 6s2/2 [==============================] - 7s 3s/step
+Epoch: 0001 Minibatch loss= 4.157029152
+1/2 [==============>...............] - ETA: 7s2/2 [==============================] - 7s 4s/step
+[[ 0.  0.  3.]
+ [ 2.  0. 11.]
+ [ 0.  0. 39.]]
+Sens Normal: 0.000, Pneumonia: 0.000, Covid-19: 1.000
+PPV Normal: 0.000, Pneumonia: 0.000, Covid-19: 0.736
+Epoch: 0001 Minibatch loss= 3.734471560
+[[ 0.  1.  2.]
+ [ 3.  1.  9.]
+ [ 0.  1. 38.]]
+Sens Normal: 0.000, Pneumonia: 0.077, Covid-19: 0.974
+PPV Normal: 0.000, Pneumonia: 0.333, Covid-19: 0.776
+Saving checkpoint at epoch 1
+1/2 [==============>...............] - ETA: 18s  2/2 [==============================] - 19s 9s/step
+Epoch: 0002 Minibatch loss= 2.181277514
+Saving checkpoint at epoch 1
+1/2 [==============>...............] - ETA: 18s  2/2 [==============================] - 19s 9s/step
+Epoch: 0002 Minibatch loss= 2.414132833
+[[ 0.  0.  3.]
+ [ 1.  0. 12.]
+ [ 0.  0. 39.]]
+Sens Normal: 0.000, Pneumonia: 0.000, Covid-19: 1.000
+PPV Normal: 0.000, Pneumonia: 0.000, Covid-19: 0.722
+[[ 0.  1.  2.]
+ [ 2.  1. 10.]
+ [ 0.  1. 38.]]
+Sens Normal: 0.000, Pneumonia: 0.077, Covid-19: 0.974
+PPV Normal: 0.000, Pneumonia: 0.333, Covid-19: 0.760
+Saving checkpoint at epoch 2
+1/2 [==============>...............] - ETA: 30s   2/2 [==============================] - 30s 15s/step
+Epoch: 0003 Minibatch loss= 3.341131210
+Saving checkpoint at epoch 2
+1/2 [==============>...............] - ETA: 28s   2/2 [==============================] - 29s 15s/step
+Epoch: 0003 Minibatch loss= 14.062021255
+[[ 0.  0.  3.]
+ [ 1.  0. 12.]
+ [ 0.  0. 39.]]
+Sens Normal: 0.000, Pneumonia: 0.000, Covid-19: 1.000
+PPV Normal: 0.000, Pneumonia: 0.000, Covid-19: 0.722
+[[ 0.  1.  2.]
+ [ 1.  0. 12.]
+ [ 0.  1. 38.]]
+Sens Normal: 0.000, Pneumonia: 0.000, Covid-19: 0.974
+PPV Normal: 0.000, Pneumonia: 0.000, Covid-19: 0.731
+Saving checkpoint at epoch 3
+Saving checkpoint at epoch 3
+Optimization Finished!
+Optimization Finished!
+0/1 gathering data of len 2

@@ -1,0 +1,13 @@
+        Preparing the environment for use of requested stage ( Devel-2019a ).
+     
+Traceback (most recent call last):
+  File "custom_inference_deep.py", line 71, in <module>
+    pred = predict(image, split)
+  File "custom_inference_deep.py", line 54, in predict
+    x = process_image_file('p/project/joaiml/ingolfsson1/COVID_Net/data/{}/{}'.format(split, imagepath), top_percent, input_size)
+  File "/p/project/joaiml/ingolfsson1/COVID_Net/data.py", line 22, in process_image_file
+    img = crop_top(img, percent=top_percent)
+  File "/p/project/joaiml/ingolfsson1/COVID_Net/data.py", line 11, in crop_top
+    offset = int(img.shape[0] * percent)
+AttributeError: 'NoneType' object has no attribute 'shape'
+srun: error: ml-gpu01: task 0: Exited with exit code 1

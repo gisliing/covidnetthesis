@@ -1,0 +1,12 @@
+        Preparing the environment for use of requested stage ( Devel-2019a ).
+     
+Traceback (most recent call last):
+  File "/p/project/joaiml/ingolfsson1/COVID-Net/inference.py", line 45, in <module>
+    saver = tf.train.import_meta_graph(os.path.join(args.weightspath, args.metaname))
+  File "/usr/local/software/skylake/Stages/Devel-2019a/software/TensorFlow/1.13.1-GCCcore-8.3.0-GPU-Python-3.6.8/lib/python3.6/site-packages/tensorflow/python/training/saver.py", line 1435, in import_meta_graph
+    meta_graph_or_file, clear_devices, import_scope, **kwargs)[0]
+  File "/usr/local/software/skylake/Stages/Devel-2019a/software/TensorFlow/1.13.1-GCCcore-8.3.0-GPU-Python-3.6.8/lib/python3.6/site-packages/tensorflow/python/training/saver.py", line 1447, in _import_meta_graph_with_return_elements
+    meta_graph_def = meta_graph.read_meta_graph_file(meta_graph_or_file)
+  File "/usr/local/software/skylake/Stages/Devel-2019a/software/TensorFlow/1.13.1-GCCcore-8.3.0-GPU-Python-3.6.8/lib/python3.6/site-packages/tensorflow/python/framework/meta_graph.py", line 633, in read_meta_graph_file
+    raise IOError("File %s does not exist." % filename)
+OSError: File /p/project/joaiml/ingolfsson1/COVID-Net/models/COVIDNet-CXR4-A/model.meta does not exist.

@@ -1,0 +1,14 @@
+        Preparing the environment for use of requested stage ( Devel-2019a ).
+     
+Traceback (most recent call last):
+  File "custom_inference_deep.py", line 23, in <module>
+    df_test.columns = ["id", "path", "condition", "source"]
+  File "/usr/local/software/skylake/Stages/Devel-2019a/software/SciPy-Stack/2019a-gcccoremkl-8.3.0-2019.3.199-Python-3.6.8/lib/python3.6/site-packages/pandas-0.24.2-py3.6-linux-x86_64.egg/pandas/core/generic.py", line 5080, in __setattr__
+    return object.__setattr__(self, name, value)
+  File "pandas/_libs/properties.pyx", line 69, in pandas._libs.properties.AxisProperty.__set__
+  File "/usr/local/software/skylake/Stages/Devel-2019a/software/SciPy-Stack/2019a-gcccoremkl-8.3.0-2019.3.199-Python-3.6.8/lib/python3.6/site-packages/pandas-0.24.2-py3.6-linux-x86_64.egg/pandas/core/generic.py", line 638, in _set_axis
+    self._data.set_axis(axis, labels)
+  File "/usr/local/software/skylake/Stages/Devel-2019a/software/SciPy-Stack/2019a-gcccoremkl-8.3.0-2019.3.199-Python-3.6.8/lib/python3.6/site-packages/pandas-0.24.2-py3.6-linux-x86_64.egg/pandas/core/internals/managers.py", line 155, in set_axis
+    'values have {new} elements'.format(old=old_len, new=new_len))
+ValueError: Length mismatch: Expected axis has 5 elements, new values have 4 elements
+srun: error: ml-gpu01: task 0: Exited with exit code 1

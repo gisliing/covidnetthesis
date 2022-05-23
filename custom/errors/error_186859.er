@@ -1,0 +1,19 @@
+        Preparing the environment for use of requested stage ( Devel-2019a ).
+     
+Traceback (most recent call last):
+  File "custom_inference_deep.py", line 25, in <module>
+    df_out = pd.read_csv('/p/project/joaiml/ingolfsson1/COVID-Net/results/total_ehl_deep_base.csv', sep=',')
+  File "/usr/local/software/skylake/Stages/Devel-2019a/software/SciPy-Stack/2019a-gcccoremkl-8.3.0-2019.3.199-Python-3.6.8/lib/python3.6/site-packages/pandas-0.24.2-py3.6-linux-x86_64.egg/pandas/io/parsers.py", line 702, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/usr/local/software/skylake/Stages/Devel-2019a/software/SciPy-Stack/2019a-gcccoremkl-8.3.0-2019.3.199-Python-3.6.8/lib/python3.6/site-packages/pandas-0.24.2-py3.6-linux-x86_64.egg/pandas/io/parsers.py", line 429, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/usr/local/software/skylake/Stages/Devel-2019a/software/SciPy-Stack/2019a-gcccoremkl-8.3.0-2019.3.199-Python-3.6.8/lib/python3.6/site-packages/pandas-0.24.2-py3.6-linux-x86_64.egg/pandas/io/parsers.py", line 895, in __init__
+    self._make_engine(self.engine)
+  File "/usr/local/software/skylake/Stages/Devel-2019a/software/SciPy-Stack/2019a-gcccoremkl-8.3.0-2019.3.199-Python-3.6.8/lib/python3.6/site-packages/pandas-0.24.2-py3.6-linux-x86_64.egg/pandas/io/parsers.py", line 1122, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/usr/local/software/skylake/Stages/Devel-2019a/software/SciPy-Stack/2019a-gcccoremkl-8.3.0-2019.3.199-Python-3.6.8/lib/python3.6/site-packages/pandas-0.24.2-py3.6-linux-x86_64.egg/pandas/io/parsers.py", line 1853, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 387, in pandas._libs.parsers.TextReader.__cinit__
+  File "pandas/_libs/parsers.pyx", line 705, in pandas._libs.parsers.TextReader._setup_parser_source
+FileNotFoundError: [Errno 2] File b'/p/project/joaiml/ingolfsson1/COVID-Net/results/total_ehl_deep_base.csv' does not exist: b'/p/project/joaiml/ingolfsson1/COVID-Net/results/total_ehl_deep_base.csv'
+srun: error: ml-gpu01: task 0: Exited with exit code 1

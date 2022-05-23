@@ -1,0 +1,133 @@
+  1) Stages/Devel-2020
+
+Currently Loaded Modules:
+  1) Stages/Devel-2019a          (S)    13) libreadline/.8.0   (H)  25) XZ/.5.2.4              (H)  37) Python/3.6.8                        49) Szip/.2.1.1                        (H)
+  2) GCC/8.3.0                          14) Tcl/8.6.9               26) libxml2/.2.9.9         (H)  38) imkl/.2019.3.199               (H)  50) HDF5/1.10.5-serial
+  3) GCCcore/.8.3.0              (H)    15) SQLite/.3.27.2     (H)  27) libxslt/.1.1.33        (H)  39) SciPy-Stack/2019a-Python-3.6.8      51) h5py/2.9.0-serial-Python-3.6.8
+  4) binutils/.2.32              (H)    16) expat/.2.2.6       (H)  28) libffi/.3.2.1          (H)  40) x264/.20190429                 (H)  52) Keras/2.2.4-GPU-Python-3.6.8
+  5) nvidia/.418.87.00           (H,g)  17) libpng/.1.6.36     (H)  29) libyaml/.0.2.2         (H)  41) FFmpeg/.4.1.3                  (H)  53) Horovod/0.16.2-GPU-Python-3.6.8    (g)
+  6) CUDA/10.1.105               (g)    18) freetype/.2.10.0   (H)  30) Java/1.8                    42) numactl/2.0.12                      54) TensorFlow/1.13.1-GPU-Python-3.6.8 (g)
+  7) UCX/1.6.1                          19) gperf/.3.1         (H)  31) PostgreSQL/11.2             43) MPFR/4.0.2                          55) dask/1.1.5-Python-3.6.8
+  8) pscom/.5.4.2-1-CUDA         (H)    20) util-linux/.2.33.1 (H)  32) protobuf/.3.7.1        (H)  44) NCCL/2.4.6-1-CUDA-10.1.105     (g)  56) scikit/2019a-Python-3.6.8
+  9) ParaStationMPI/5.4.0-1-CUDA        21) fontconfig/.2.13.1 (H)  33) gflags/.2.2.2          (H)  45) cuDNN/7.5.1.10-CUDA-10.1.105   (g)
+ 10) bzip2/.1.0.6                (H)    22) X11/20190311            34) libspatialindex/.1.9.0 (H)  46) libunwind/.1.3.1               (H)
+ 11) zlib/.1.2.11                (H)    23) Tk/.8.6.9          (H)  35) NASM/.2.14.02          (H)  47) glog/.0.4.0                    (H)
+ 12) ncurses/.6.1                (H)    24) GMP/6.1.2               36) libjpeg-turbo/.2.0.2   (H)  48) PyTorch/1.1.0-GPU-Python-3.6.8 (g)
+
+  Where:
+   H:  Hidden Module
+   S:  Module is Sticky, requires --force to unload or purge
+   g:  built for GPU
+
+ 
+
+ln: failed to create symbolic link './libcuda.so.1': File exists
+ln: failed to create symbolic link './libnvidia-ml.so.1': File exists
+cpu_bind=NONE - dp-dam04, task  0  0 [10145]: mask 0xffffffffffffffffffffffff set
+cpu_bind=NONE - dp-dam06, task  2  0 [10787]: mask 0xffffffffffffffffffffffff set
+cpu_bind=NONE - dp-dam07, task  3  0 [4595]: mask 0xffffffffffffffffffffffff set
+cpu_bind=NONE - dp-dam05, task  1  0 [25543]: mask 0xffffffffffffffffffffffff set
+2022-02-21 07:51:07.710899: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2400000000 Hz
+2022-02-21 07:51:07.714364: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2400000000 Hz
+2022-02-21 07:51:07.716647: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x42adc70 executing computations on platform Host. Devices:
+2022-02-21 07:51:07.716668: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): <undefined>, <undefined>
+2022-02-21 07:51:07.717864: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2400000000 Hz
+2022-02-21 07:51:07.720336: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x3f47090 executing computations on platform Host. Devices:
+2022-02-21 07:51:07.720359: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): <undefined>, <undefined>
+2022-02-21 07:51:07.723654: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x4c60cd0 executing computations on platform Host. Devices:
+2022-02-21 07:51:07.723675: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): <undefined>, <undefined>
+2022-02-21 07:51:07.824155: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x4308a40 executing computations on platform CUDA. Devices:
+2022-02-21 07:51:07.824185: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): Tesla V100-PCIE-32GB, Compute Capability 7.0
+2022-02-21 07:51:07.824329: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1433] Found device 0 with properties: 
+name: Tesla V100-PCIE-32GB major: 7 minor: 0 memoryClockRate(GHz): 1.38
+pciBusID: 0000:af:00.0
+totalMemory: 31.75GiB freeMemory: 31.45GiB
+2022-02-21 07:51:07.824342: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2022-02-21 07:51:07.834231: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x3fa1e50 executing computations on platform CUDA. Devices:
+2022-02-21 07:51:07.834261: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): Tesla V100-PCIE-32GB, Compute Capability 7.0
+2022-02-21 07:51:07.834847: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1433] Found device 0 with properties: 
+name: Tesla V100-PCIE-32GB major: 7 minor: 0 memoryClockRate(GHz): 1.38
+pciBusID: 0000:af:00.0
+totalMemory: 31.75GiB freeMemory: 31.45GiB
+2022-02-21 07:51:07.834861: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2022-02-21 07:51:07.836300: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x4cbb680 executing computations on platform CUDA. Devices:
+2022-02-21 07:51:07.836328: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): Tesla V100-PCIE-32GB, Compute Capability 7.0
+2022-02-21 07:51:07.836467: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1433] Found device 0 with properties: 
+name: Tesla V100-PCIE-32GB major: 7 minor: 0 memoryClockRate(GHz): 1.38
+pciBusID: 0000:af:00.0
+totalMemory: 31.75GiB freeMemory: 31.45GiB
+2022-02-21 07:51:07.836481: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2022-02-21 07:51:09.787904: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2022-02-21 07:51:09.787930: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990]      0 
+2022-02-21 07:51:09.787935: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0:   N 
+2022-02-21 07:51:09.788033: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 30507 MB memory) -> physical GPU (device: 0, name: Tesla V100-PCIE-32GB, pci bus id: 0000:af:00.0, compute capability: 7.0)
+2022-02-21 07:51:09.797048: I tensorflow/core/common_runtime/process_util.cc:71] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+2022-02-21 07:51:11.040160: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2400000000 Hz
+2022-02-21 07:51:11.046063: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x4590ee0 executing computations on platform Host. Devices:
+2022-02-21 07:51:11.046111: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): <undefined>, <undefined>
+2022-02-21 07:51:11.056744: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2022-02-21 07:51:11.056777: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990]      0 
+2022-02-21 07:51:11.056781: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0:   N 
+2022-02-21 07:51:11.056872: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 30507 MB memory) -> physical GPU (device: 0, name: Tesla V100-PCIE-32GB, pci bus id: 0000:af:00.0, compute capability: 7.0)
+2022-02-21 07:51:11.060570: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2022-02-21 07:51:11.060601: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990]      0 
+2022-02-21 07:51:11.060607: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0:   N 
+2022-02-21 07:51:11.060724: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 30507 MB memory) -> physical GPU (device: 0, name: Tesla V100-PCIE-32GB, pci bus id: 0000:af:00.0, compute capability: 7.0)
+2022-02-21 07:51:11.066612: I tensorflow/core/common_runtime/process_util.cc:71] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+2022-02-21 07:51:11.070716: I tensorflow/core/common_runtime/process_util.cc:71] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+2022-02-21 07:51:11.160694: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x45ebca0 executing computations on platform CUDA. Devices:
+2022-02-21 07:51:11.160720: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): Tesla V100-PCIE-32GB, Compute Capability 7.0
+2022-02-21 07:51:11.160850: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1433] Found device 0 with properties: 
+name: Tesla V100-PCIE-32GB major: 7 minor: 0 memoryClockRate(GHz): 1.38
+pciBusID: 0000:af:00.0
+totalMemory: 31.75GiB freeMemory: 31.15GiB
+2022-02-21 07:51:11.160863: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2022-02-21 07:51:19.281472: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2022-02-21 07:51:19.281501: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990]      0 
+2022-02-21 07:51:19.281506: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0:   N 
+2022-02-21 07:51:19.281595: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 30219 MB memory) -> physical GPU (device: 0, name: Tesla V100-PCIE-32GB, pci bus id: 0000:af:00.0, compute capability: 7.0)
+2022-02-21 07:51:19.285566: I tensorflow/core/common_runtime/process_util.cc:71] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+2022-02-21 07:52:01.261576: I tensorflow/stream_executor/dso_loader.cc:152] successfully opened CUDA library libcublas.so.10 locally
+2022-02-21 07:52:10.711252: I tensorflow/stream_executor/dso_loader.cc:152] successfully opened CUDA library libcublas.so.10 locally
+2022-02-21 07:52:10.854881: I tensorflow/stream_executor/dso_loader.cc:152] successfully opened CUDA library libcublas.so.10 locally
+2022-02-21 07:52:24.831217: I tensorflow/stream_executor/dso_loader.cc:152] successfully opened CUDA library libcublas.so.10 locally
+2022-02-21 08:25:28.689811: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2022-02-21 08:25:28.689858: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2022-02-21 08:25:28.689864: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990]      0 
+2022-02-21 08:25:28.689872: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0:   N 
+2022-02-21 08:25:28.689948: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 30507 MB memory) -> physical GPU (device: 0, name: Tesla V100-PCIE-32GB, pci bus id: 0000:af:00.0, compute capability: 7.0)
+2022-02-21 08:25:39.300262: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2022-02-21 08:25:39.300309: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2022-02-21 08:25:39.300321: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990]      0 
+2022-02-21 08:25:39.300324: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0:   N 
+2022-02-21 08:25:39.300411: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 30507 MB memory) -> physical GPU (device: 0, name: Tesla V100-PCIE-32GB, pci bus id: 0000:af:00.0, compute capability: 7.0)
+2022-02-21 08:34:05.790913: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2022-02-21 08:34:05.790961: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2022-02-21 08:34:05.790967: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990]      0 
+2022-02-21 08:34:05.790970: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0:   N 
+2022-02-21 08:34:05.791064: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 30507 MB memory) -> physical GPU (device: 0, name: Tesla V100-PCIE-32GB, pci bus id: 0000:af:00.0, compute capability: 7.0)
+2022-02-21 09:19:26.204743: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2022-02-21 09:19:26.204787: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2022-02-21 09:19:26.204794: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990]      0 
+2022-02-21 09:19:26.204797: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0:   N 
+2022-02-21 09:19:26.204878: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 30219 MB memory) -> physical GPU (device: 0, name: Tesla V100-PCIE-32GB, pci bus id: 0000:af:00.0, compute capability: 7.0)
+2022-02-21 09:36:33.918372: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2022-02-21 09:36:33.918417: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2022-02-21 09:36:33.918431: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990]      0 
+2022-02-21 09:36:33.918434: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0:   N 
+2022-02-21 09:36:33.918516: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 30507 MB memory) -> physical GPU (device: 0, name: Tesla V100-PCIE-32GB, pci bus id: 0000:af:00.0, compute capability: 7.0)
+2022-02-21 09:36:43.193551: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2022-02-21 09:36:43.193614: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2022-02-21 09:36:43.193620: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990]      0 
+2022-02-21 09:36:43.193623: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0:   N 
+2022-02-21 09:36:43.193736: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 30507 MB memory) -> physical GPU (device: 0, name: Tesla V100-PCIE-32GB, pci bus id: 0000:af:00.0, compute capability: 7.0)
+2022-02-21 09:36:49.877102: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2022-02-21 09:36:49.877148: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2022-02-21 09:36:49.877162: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990]      0 
+2022-02-21 09:36:49.877165: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0:   N 
+2022-02-21 09:36:49.877247: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 30507 MB memory) -> physical GPU (device: 0, name: Tesla V100-PCIE-32GB, pci bus id: 0000:af:00.0, compute capability: 7.0)
+2022-02-21 09:42:25.971329: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1512] Adding visible gpu devices: 0
+2022-02-21 09:42:25.971372: I tensorflow/core/common_runtime/gpu/gpu_device.cc:984] Device interconnect StreamExecutor with strength 1 edge matrix:
+2022-02-21 09:42:25.971379: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990]      0 
+2022-02-21 09:42:25.971383: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1003] 0:   N 
+2022-02-21 09:42:25.971482: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 30219 MB memory) -> physical GPU (device: 0, name: Tesla V100-PCIE-32GB, pci bus id: 0000:af:00.0, compute capability: 7.0)

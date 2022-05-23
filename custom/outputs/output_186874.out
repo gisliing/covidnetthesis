@@ -1,0 +1,5086 @@
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -33.26976037025452
+Total time elapsed: -33.26976037025452
+
+Correct: COVID-19
+Predicted: pneumonia
+Inference time: -21.680057287216187
+Total time elapsed: -54.9498176574707
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.30484890937805
+Total time elapsed: -76.25466656684875
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.75141406059265
+Total time elapsed: -98.0060806274414
+
+Correct: COVID-19
+Predicted: normal
+Inference time: -20.66090416908264
+Total time elapsed: -118.66698479652405
+
+Correct: COVID-19
+Predicted: pneumonia
+Inference time: -21.313101291656494
+Total time elapsed: -139.98008608818054
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.117506980895996
+Total time elapsed: -161.09759306907654
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.452966690063477
+Total time elapsed: -182.55055975914001
+
+Correct: COVID-19
+Predicted: pneumonia
+Inference time: -21.451417922973633
+Total time elapsed: -204.00197768211365
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.04223394393921
+Total time elapsed: -225.04421162605286
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.781318426132202
+Total time elapsed: -245.82553005218506
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.74106502532959
+Total time elapsed: -267.56659507751465
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.618478775024414
+Total time elapsed: -288.18507385253906
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -22.01673460006714
+Total time elapsed: -310.2018084526062
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.844115734100342
+Total time elapsed: -332.04592418670654
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.074753046035767
+Total time elapsed: -353.1206772327423
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.13549304008484
+Total time elapsed: -374.25617027282715
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.437304258346558
+Total time elapsed: -395.6934745311737
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.951127290725708
+Total time elapsed: -416.6446018218994
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.255664110183716
+Total time elapsed: -437.90026593208313
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.622703075408936
+Total time elapsed: -459.52296900749207
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.55157208442688
+Total time elapsed: -481.07454109191895
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.2429461479187
+Total time elapsed: -502.31748723983765
+
+Correct: COVID-19
+Predicted: pneumonia
+Inference time: -21.258540153503418
+Total time elapsed: -523.5760273933411
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.130223989486694
+Total time elapsed: -544.7062513828278
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.204394340515137
+Total time elapsed: -565.9106457233429
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.595853328704834
+Total time elapsed: -587.5064990520477
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.73016905784607
+Total time elapsed: -608.2366681098938
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.82781744003296
+Total time elapsed: -629.0644855499268
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.456570148468018
+Total time elapsed: -650.5210556983948
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.024095058441162
+Total time elapsed: -671.5451507568359
+
+Correct: COVID-19
+Predicted: pneumonia
+Inference time: -20.968385934829712
+Total time elapsed: -692.5135366916656
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.048516988754272
+Total time elapsed: -713.5620536804199
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.031373739242554
+Total time elapsed: -734.5934274196625
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.06386160850525
+Total time elapsed: -755.6572890281677
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.359790563583374
+Total time elapsed: -777.0170795917511
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.990659952163696
+Total time elapsed: -798.0077395439148
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.25342345237732
+Total time elapsed: -818.2611629962921
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.913061141967773
+Total time elapsed: -839.1742241382599
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.8793466091156
+Total time elapsed: -860.0535707473755
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.437093257904053
+Total time elapsed: -880.4906640052795
+
+Correct: COVID-19
+Predicted: pneumonia
+Inference time: -21.192929983139038
+Total time elapsed: -901.6835939884186
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.41342830657959
+Total time elapsed: -922.0970222949982
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.3070650100708
+Total time elapsed: -943.404087305069
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.028600692749023
+Total time elapsed: -964.432687997818
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.160197734832764
+Total time elapsed: -985.5928857326508
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.325438737869263
+Total time elapsed: -1005.91832447052
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.658674001693726
+Total time elapsed: -1027.5769984722137
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.546439170837402
+Total time elapsed: -1048.1234376430511
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.439762115478516
+Total time elapsed: -1068.5631997585297
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.162455081939697
+Total time elapsed: -1089.7256548404694
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.918575525283813
+Total time elapsed: -1110.6442303657532
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.702677726745605
+Total time elapsed: -1131.3469080924988
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.62004041671753
+Total time elapsed: -1151.9669485092163
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.11608123779297
+Total time elapsed: -1173.0830297470093
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.15211772918701
+Total time elapsed: -1193.2351474761963
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.868075370788574
+Total time elapsed: -1214.1032228469849
+
+Correct: COVID-19
+Predicted: normal
+Inference time: -20.22915482521057
+Total time elapsed: -1234.3323776721954
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.486899614334106
+Total time elapsed: -1254.8192772865295
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.885608673095703
+Total time elapsed: -1275.7048859596252
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.275619506835938
+Total time elapsed: -1295.9805054664612
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.370726585388184
+Total time elapsed: -1316.3512320518494
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.4316828250885
+Total time elapsed: -1337.7829148769379
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.015429258346558
+Total time elapsed: -1357.7983441352844
+
+Correct: COVID-19
+Predicted: pneumonia
+Inference time: -20.13887858390808
+Total time elapsed: -1377.9372227191925
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.99324059486389
+Total time elapsed: -1398.9304633140564
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.38891053199768
+Total time elapsed: -1419.319373846054
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.990148544311523
+Total time elapsed: -1439.3095223903656
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.145965099334717
+Total time elapsed: -1459.4554874897003
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.240497827529907
+Total time elapsed: -1479.6959853172302
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.8008930683136
+Total time elapsed: -1500.4968783855438
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.63835644721985
+Total time elapsed: -1522.1352348327637
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.764156103134155
+Total time elapsed: -1541.8993909358978
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.054306745529175
+Total time elapsed: -1562.953697681427
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.00192618370056
+Total time elapsed: -1582.9556238651276
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.2462260723114
+Total time elapsed: -1603.201849937439
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.585792064666748
+Total time elapsed: -1623.7876420021057
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.845911264419556
+Total time elapsed: -1644.6335532665253
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.011237621307373
+Total time elapsed: -1664.6447908878326
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.4030499458313
+Total time elapsed: -1685.047840833664
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.02096676826477
+Total time elapsed: -1706.0688076019287
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.593748807907104
+Total time elapsed: -1726.6625564098358
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.208338499069214
+Total time elapsed: -1746.870894908905
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.115386486053467
+Total time elapsed: -1766.9862813949585
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.826569080352783
+Total time elapsed: -1787.8128504753113
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.088194370269775
+Total time elapsed: -1807.901044845581
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.238298416137695
+Total time elapsed: -1829.1393432617188
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.02318048477173
+Total time elapsed: -1849.1625237464905
+
+Correct: COVID-19
+Predicted: pneumonia
+Inference time: -20.646830081939697
+Total time elapsed: -1869.8093538284302
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.60780143737793
+Total time elapsed: -1890.417155265808
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.634258270263672
+Total time elapsed: -1911.0514135360718
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.93207550048828
+Total time elapsed: -1930.98348903656
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.129077911376953
+Total time elapsed: -1952.112566947937
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.273050785064697
+Total time elapsed: -1972.3856177330017
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.43715238571167
+Total time elapsed: -1992.8227701187134
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.014694690704346
+Total time elapsed: -2013.8374648094177
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.51095223426819
+Total time elapsed: -2034.348417043686
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.029561281204224
+Total time elapsed: -2054.37797832489
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.36250352859497
+Total time elapsed: -2074.740481853485
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.868632078170776
+Total time elapsed: -2095.609113931656
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.933290004730225
+Total time elapsed: -2115.542403936386
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.629417657852173
+Total time elapsed: -2136.1718215942383
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.691681146621704
+Total time elapsed: -2155.86350274086
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.06142282485962
+Total time elapsed: -2175.9249255657196
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.281324863433838
+Total time elapsed: -2197.2062504291534
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.231801986694336
+Total time elapsed: -2217.438052415848
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.845611572265625
+Total time elapsed: -2237.2836639881134
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.540459632873535
+Total time elapsed: -2257.824123620987
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.968867301940918
+Total time elapsed: -2277.792990922928
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.997733116149902
+Total time elapsed: -2297.7907240390778
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.98643469810486
+Total time elapsed: -2318.7771587371826
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.427823066711426
+Total time elapsed: -2339.204981803894
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.5002601146698
+Total time elapsed: -2359.705241918564
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.98982810974121
+Total time elapsed: -2380.695070028305
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.651548385620117
+Total time elapsed: -2401.346618413925
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.17259192466736
+Total time elapsed: -2422.5192103385925
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.488885641098022
+Total time elapsed: -2444.0080959796906
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.289063692092896
+Total time elapsed: -2464.2971596717834
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.96027398109436
+Total time elapsed: -2485.257433652878
+
+Correct: COVID-19
+Predicted: normal
+Inference time: -20.852935075759888
+Total time elapsed: -2506.1103687286377
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.60903525352478
+Total time elapsed: -2526.7194039821625
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.030045986175537
+Total time elapsed: -2546.749449968338
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.51212477684021
+Total time elapsed: -2567.261574745178
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.191579818725586
+Total time elapsed: -2587.453154563904
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.025896072387695
+Total time elapsed: -2608.4790506362915
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.022768259048462
+Total time elapsed: -2629.50181889534
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.725338459014893
+Total time elapsed: -2650.227157354355
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.12602186203003
+Total time elapsed: -2670.353179216385
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.502308130264282
+Total time elapsed: -2690.855487346649
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.956483602523804
+Total time elapsed: -2711.811970949173
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.46590757369995
+Total time elapsed: -2732.277878522873
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.90217638015747
+Total time elapsed: -2753.1800549030304
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.947219133377075
+Total time elapsed: -2773.1272740364075
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.354280710220337
+Total time elapsed: -2793.481554746628
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.713906288146973
+Total time elapsed: -2814.195461034775
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.797114372253418
+Total time elapsed: -2834.992575407028
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.21190309524536
+Total time elapsed: -2855.2044785022736
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.13354778289795
+Total time elapsed: -2876.3380262851715
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.940073013305664
+Total time elapsed: -2896.278099298477
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.50995659828186
+Total time elapsed: -2916.788055896759
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.586217403411865
+Total time elapsed: -2937.374273300171
+
+Correct: COVID-19
+Predicted: pneumonia
+Inference time: -20.28182029724121
+Total time elapsed: -2957.656093597412
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.979424238204956
+Total time elapsed: -2977.635517835617
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.029706716537476
+Total time elapsed: -2997.6652245521545
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.43004536628723
+Total time elapsed: -3019.0952699184418
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.645816802978516
+Total time elapsed: -3039.7410867214203
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.437943935394287
+Total time elapsed: -3061.1790306568146
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.814628839492798
+Total time elapsed: -3080.9936594963074
+
+Correct: COVID-19
+Predicted: pneumonia
+Inference time: -20.408764600753784
+Total time elapsed: -3101.402424097061
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.69298815727234
+Total time elapsed: -3122.0954122543335
+
+Correct: COVID-19
+Predicted: pneumonia
+Inference time: -20.233208656311035
+Total time elapsed: -3142.3286209106445
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.35149073600769
+Total time elapsed: -3162.680111646652
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.57261300086975
+Total time elapsed: -3183.252724647522
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.786537408828735
+Total time elapsed: -3203.0392620563507
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.167715072631836
+Total time elapsed: -3223.2069771289825
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.783524990081787
+Total time elapsed: -3243.9905021190643
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.208503484725952
+Total time elapsed: -3264.1990056037903
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.943713903427124
+Total time elapsed: -3284.1427195072174
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.111466884613037
+Total time elapsed: -3304.2541863918304
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.543989896774292
+Total time elapsed: -3324.7981762886047
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.762162923812866
+Total time elapsed: -3344.5603392124176
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.61269760131836
+Total time elapsed: -3365.173036813736
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.53666043281555
+Total time elapsed: -3384.7096972465515
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.53957176208496
+Total time elapsed: -3405.2492690086365
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.21910524368286
+Total time elapsed: -3426.4683742523193
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.245860815048218
+Total time elapsed: -3446.7142350673676
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.088867902755737
+Total time elapsed: -3466.8031029701233
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.79781222343445
+Total time elapsed: -3487.6009151935577
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.700270891189575
+Total time elapsed: -3507.3011860847473
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.482699871063232
+Total time elapsed: -3527.7838859558105
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.8064067363739
+Total time elapsed: -3548.5902926921844
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.375982522964478
+Total time elapsed: -3568.966275215149
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.25663924217224
+Total time elapsed: -3589.222914457321
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.2610125541687
+Total time elapsed: -3609.48392701149
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.805386066436768
+Total time elapsed: -3630.2893130779266
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.350457668304443
+Total time elapsed: -3650.639770746231
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.58211326599121
+Total time elapsed: -3672.2218840122223
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.02365756034851
+Total time elapsed: -3692.245541572571
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.797240018844604
+Total time elapsed: -3713.0427815914154
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.036069631576538
+Total time elapsed: -3734.078851222992
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.680455684661865
+Total time elapsed: -3754.759306907654
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.892020225524902
+Total time elapsed: -3774.6513271331787
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.76648998260498
+Total time elapsed: -3795.4178171157837
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.99272084236145
+Total time elapsed: -3815.410537958145
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.081695795059204
+Total time elapsed: -3835.4922337532043
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.828924894332886
+Total time elapsed: -3856.3211586475372
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.310824871063232
+Total time elapsed: -3876.6319835186005
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.55431079864502
+Total time elapsed: -3897.1862943172455
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.394876956939697
+Total time elapsed: -3917.581171274185
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.99183487892151
+Total time elapsed: -3938.5730061531067
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.292760372161865
+Total time elapsed: -3958.8657665252686
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.853302001953125
+Total time elapsed: -3979.7190685272217
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.232299327850342
+Total time elapsed: -3999.951367855072
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.496997833251953
+Total time elapsed: -4020.448365688324
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.672685146331787
+Total time elapsed: -4041.1210508346558
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.6668062210083
+Total time elapsed: -4061.787857055664
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.334375858306885
+Total time elapsed: -4082.122232913971
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.95711874961853
+Total time elapsed: -4103.0793516635895
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -19.93746852874756
+Total time elapsed: -4123.016820192337
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.82828712463379
+Total time elapsed: -4143.845107316971
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.946541786193848
+Total time elapsed: -4164.791649103165
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.716737747192383
+Total time elapsed: -4185.508386850357
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.399940967559814
+Total time elapsed: -4205.908327817917
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.27955436706543
+Total time elapsed: -4226.187882184982
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.996742963790894
+Total time elapsed: -4247.184625148773
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.199942111968994
+Total time elapsed: -4267.384567260742
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -21.0401508808136
+Total time elapsed: -4288.424718141556
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -19.953246593475342
+Total time elapsed: -4308.377964735031
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.369316577911377
+Total time elapsed: -4328.7472813129425
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.466429948806763
+Total time elapsed: -4349.213711261749
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.721216678619385
+Total time elapsed: -4369.934927940369
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.375895023345947
+Total time elapsed: -4390.310822963715
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.53327512741089
+Total time elapsed: -4410.8440980911255
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.64984631538391
+Total time elapsed: -4430.493944406509
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.238972663879395
+Total time elapsed: -4450.732917070389
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.3968768119812
+Total time elapsed: -4471.12979388237
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.12999963760376
+Total time elapsed: -4491.259793519974
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.19594430923462
+Total time elapsed: -4511.455737829208
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.63756513595581
+Total time elapsed: -4532.093302965164
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.19674777984619
+Total time elapsed: -4553.29005074501
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.954111099243164
+Total time elapsed: -4573.2441618442535
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.628177642822266
+Total time elapsed: -4593.872339487076
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.945224285125732
+Total time elapsed: -4613.8175637722015
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.31714105606079
+Total time elapsed: -4634.134704828262
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.891472339630127
+Total time elapsed: -4655.0261771678925
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.766458988189697
+Total time elapsed: -4675.792636156082
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.19147777557373
+Total time elapsed: -4695.984113931656
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.333272457122803
+Total time elapsed: -4717.317386388779
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.83684730529785
+Total time elapsed: -4737.1542336940765
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.646881103515625
+Total time elapsed: -4757.801114797592
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.715245962142944
+Total time elapsed: -4778.516360759735
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.387620210647583
+Total time elapsed: -4798.903980970383
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.04273009300232
+Total time elapsed: -4818.946711063385
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.253721475601196
+Total time elapsed: -4839.200432538986
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.867764949798584
+Total time elapsed: -4860.068197488785
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.845139980316162
+Total time elapsed: -4879.913337469101
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.988538026809692
+Total time elapsed: -4900.901875495911
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.62941026687622
+Total time elapsed: -4921.531285762787
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.893260955810547
+Total time elapsed: -4942.424546718597
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.660463333129883
+Total time elapsed: -4963.085010051727
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.862912893295288
+Total time elapsed: -4982.947922945023
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.239284992218018
+Total time elapsed: -5003.187207937241
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.81999945640564
+Total time elapsed: -5024.007207393646
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.017343044281006
+Total time elapsed: -5044.024550437927
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.59656524658203
+Total time elapsed: -5064.621115684509
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.471652030944824
+Total time elapsed: -5085.092767715454
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.25534749031067
+Total time elapsed: -5105.348115205765
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.3946795463562
+Total time elapsed: -5125.742794752121
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.31526279449463
+Total time elapsed: -5146.058057546616
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.902002334594727
+Total time elapsed: -5166.96005988121
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.405609369277954
+Total time elapsed: -5187.365669250488
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.753723859786987
+Total time elapsed: -5208.119393110275
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.941629648208618
+Total time elapsed: -5228.061022758484
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.328542470932007
+Total time elapsed: -5248.389565229416
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.54618811607361
+Total time elapsed: -5268.9357533454895
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.320205688476562
+Total time elapsed: -5289.255959033966
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.18966841697693
+Total time elapsed: -5309.445627450943
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.72718572616577
+Total time elapsed: -5330.172813177109
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.159648180007935
+Total time elapsed: -5350.332461357117
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.335504055023193
+Total time elapsed: -5370.66796541214
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.52009677886963
+Total time elapsed: -5391.1880621910095
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.82574200630188
+Total time elapsed: -5412.013804197311
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.929871320724487
+Total time elapsed: -5431.943675518036
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.766864776611328
+Total time elapsed: -5452.710540294647
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.672781229019165
+Total time elapsed: -5473.383321523666
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.164168119430542
+Total time elapsed: -5493.547489643097
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.58757185935974
+Total time elapsed: -5514.135061502457
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.031708002090454
+Total time elapsed: -5534.166769504547
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.321189403533936
+Total time elapsed: -5554.487958908081
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.81890892982483
+Total time elapsed: -5575.306867837906
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.297834396362305
+Total time elapsed: -5595.604702234268
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.93371057510376
+Total time elapsed: -5615.538412809372
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.67893958091736
+Total time elapsed: -5636.217352390289
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.084909200668335
+Total time elapsed: -5656.302261590958
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.273881196975708
+Total time elapsed: -5676.576142787933
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.807841777801514
+Total time elapsed: -5697.383984565735
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.564736366271973
+Total time elapsed: -5717.948720932007
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.168070077896118
+Total time elapsed: -5738.116791009903
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.596226453781128
+Total time elapsed: -5758.713017463684
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.771326065063477
+Total time elapsed: -5779.484343528748
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.156678676605225
+Total time elapsed: -5799.641022205353
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.883087396621704
+Total time elapsed: -5820.5241096019745
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.972803592681885
+Total time elapsed: -5840.496913194656
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.41924285888672
+Total time elapsed: -5860.916156053543
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.933818817138672
+Total time elapsed: -5881.849974870682
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.54374599456787
+Total time elapsed: -5902.39372086525
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.184232711791992
+Total time elapsed: -5922.577953577042
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.648036003112793
+Total time elapsed: -5943.225989580154
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.713945865631104
+Total time elapsed: -5963.9399354457855
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.34143328666687
+Total time elapsed: -5984.281368732452
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.57434892654419
+Total time elapsed: -6004.855717658997
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.540470600128174
+Total time elapsed: -6025.396188259125
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.104185581207275
+Total time elapsed: -6045.500373840332
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.481000900268555
+Total time elapsed: -6065.981374740601
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.0610933303833
+Total time elapsed: -6087.042468070984
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.146411895751953
+Total time elapsed: -6107.188879966736
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.632609367370605
+Total time elapsed: -6127.821489334106
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.993826627731323
+Total time elapsed: -6147.815315961838
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.189263820648193
+Total time elapsed: -6168.004579782486
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.62065315246582
+Total time elapsed: -6188.625232934952
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.35321354866028
+Total time elapsed: -6208.978446483612
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.119842052459717
+Total time elapsed: -6229.098288536072
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.432421445846558
+Total time elapsed: -6249.530709981918
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.991914749145508
+Total time elapsed: -6269.522624731064
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.38558602333069
+Total time elapsed: -6289.9082107543945
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.76069211959839
+Total time elapsed: -6310.668902873993
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.588972806930542
+Total time elapsed: -6331.2578756809235
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.47612738609314
+Total time elapsed: -6351.734003067017
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.42764115333557
+Total time elapsed: -6372.161644220352
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.784976720809937
+Total time elapsed: -6392.946620941162
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.132435083389282
+Total time elapsed: -6413.079056024551
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.712583541870117
+Total time elapsed: -6433.7916395664215
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.49304509162903
+Total time elapsed: -6454.2846846580505
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.65949296951294
+Total time elapsed: -6474.9441776275635
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.99332094192505
+Total time elapsed: -6495.9374985694885
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.024268865585327
+Total time elapsed: -6515.961767435074
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.634653568267822
+Total time elapsed: -6536.596421003342
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.83857250213623
+Total time elapsed: -6557.434993505478
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.149908542633057
+Total time elapsed: -6577.584902048111
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.35964798927307
+Total time elapsed: -6597.944550037384
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.964956283569336
+Total time elapsed: -6618.909506320953
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.209226369857788
+Total time elapsed: -6639.118732690811
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.316662788391113
+Total time elapsed: -6659.435395479202
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.369251251220703
+Total time elapsed: -6679.804646730423
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.655935764312744
+Total time elapsed: -6700.460582494736
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.96120548248291
+Total time elapsed: -6720.421787977219
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.586066722869873
+Total time elapsed: -6741.0078547000885
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.792837381362915
+Total time elapsed: -6760.800692081451
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.361642599105835
+Total time elapsed: -6781.162334680557
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.536662817001343
+Total time elapsed: -6801.698997497559
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.314178705215454
+Total time elapsed: -6822.013176202774
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.357131004333496
+Total time elapsed: -6842.3703072071075
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.13066792488098
+Total time elapsed: -6863.5009751319885
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.26901125907898
+Total time elapsed: -6883.7699863910675
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.57341170310974
+Total time elapsed: -6904.343398094177
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.685723543167114
+Total time elapsed: -6925.029121637344
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.587146997451782
+Total time elapsed: -6945.616268634796
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.26277208328247
+Total time elapsed: -6965.879040718079
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.20339846611023
+Total time elapsed: -6986.082439184189
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.32668399810791
+Total time elapsed: -7006.409123182297
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.821074724197388
+Total time elapsed: -7026.230197906494
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.03244972229004
+Total time elapsed: -7047.262647628784
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.98732280731201
+Total time elapsed: -7067.249970436096
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.32551097869873
+Total time elapsed: -7087.575481414795
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.844815015792847
+Total time elapsed: -7108.420296430588
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.252901315689087
+Total time elapsed: -7128.673197746277
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.801313161849976
+Total time elapsed: -7148.474510908127
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.822041511535645
+Total time elapsed: -7169.2965524196625
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.294621467590332
+Total time elapsed: -7189.591173887253
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.029813289642334
+Total time elapsed: -7209.620987176895
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.64160943031311
+Total time elapsed: -7230.262596607208
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.956470251083374
+Total time elapsed: -7250.219066858292
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.46856927871704
+Total time elapsed: -7270.687636137009
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.63598895072937
+Total time elapsed: -7291.323625087738
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.589239597320557
+Total time elapsed: -7311.912864685059
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.086742401123047
+Total time elapsed: -7331.999607086182
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.932538509368896
+Total time elapsed: -7352.9321455955505
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.999354124069214
+Total time elapsed: -7372.93149971962
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.649487257003784
+Total time elapsed: -7393.5809869766235
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.87359094619751
+Total time elapsed: -7414.454577922821
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.469669103622437
+Total time elapsed: -7434.9242470264435
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.348806619644165
+Total time elapsed: -7455.273053646088
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.73486566543579
+Total time elapsed: -7476.007919311523
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.03132963180542
+Total time elapsed: -7496.039248943329
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.272023677825928
+Total time elapsed: -7516.311272621155
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.767272233963013
+Total time elapsed: -7537.078544855118
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.600640296936035
+Total time elapsed: -7557.679185152054
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.196869373321533
+Total time elapsed: -7577.876054525375
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.455220222473145
+Total time elapsed: -7598.3312747478485
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.604140520095825
+Total time elapsed: -7618.935415267944
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.55085039138794
+Total time elapsed: -7639.486265659332
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.99667453765869
+Total time elapsed: -7660.482940196991
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.588199615478516
+Total time elapsed: -7680.0711398124695
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.22609305381775
+Total time elapsed: -7700.297232866287
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.743926286697388
+Total time elapsed: -7721.041159152985
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.966801166534424
+Total time elapsed: -7741.007960319519
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.97187900543213
+Total time elapsed: -7760.979839324951
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.724084615707397
+Total time elapsed: -7781.703923940659
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.351807117462158
+Total time elapsed: -7802.055731058121
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.78604531288147
+Total time elapsed: -7822.841776371002
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.45328712463379
+Total time elapsed: -7843.295063495636
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.579972743988037
+Total time elapsed: -7862.875036239624
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.747053146362305
+Total time elapsed: -7882.622089385986
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.98365545272827
+Total time elapsed: -7902.605744838715
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.965963125228882
+Total time elapsed: -7922.5717079639435
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.114466667175293
+Total time elapsed: -7942.686174631119
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.06224822998047
+Total time elapsed: -7963.748422861099
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.97613501548767
+Total time elapsed: -7983.724557876587
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.891406059265137
+Total time elapsed: -8004.615963935852
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.058799505233765
+Total time elapsed: -8025.674763441086
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.181854963302612
+Total time elapsed: -8045.856618404388
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.264785528182983
+Total time elapsed: -8066.121403932571
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.92483377456665
+Total time elapsed: -8087.046237707138
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.919841527938843
+Total time elapsed: -8106.966079235077
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.778621435165405
+Total time elapsed: -8127.744700670242
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.650267601013184
+Total time elapsed: -8148.3949682712555
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.228594064712524
+Total time elapsed: -8168.623562335968
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.10189199447632
+Total time elapsed: -8188.725454330444
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.39679980278015
+Total time elapsed: -8209.122254133224
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.83927273750305
+Total time elapsed: -8229.961526870728
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.12192463874817
+Total time elapsed: -8250.083451509476
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.492767572402954
+Total time elapsed: -8270.576219081879
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.785419940948486
+Total time elapsed: -8290.361639022827
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.496976613998413
+Total time elapsed: -8310.858615636826
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.667028427124023
+Total time elapsed: -8331.52564406395
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.50749897956848
+Total time elapsed: -8352.033143043518
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.714709281921387
+Total time elapsed: -8372.74785232544
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.91804575920105
+Total time elapsed: -8393.66589808464
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.46261954307556
+Total time elapsed: -8414.128517627716
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.56833243370056
+Total time elapsed: -8434.696850061417
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.68858003616333
+Total time elapsed: -8455.38543009758
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.957459449768066
+Total time elapsed: -8475.342889547348
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.60420536994934
+Total time elapsed: -8495.947094917297
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.863704442977905
+Total time elapsed: -8516.810799360275
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.489546060562134
+Total time elapsed: -8537.300345420837
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.66367220878601
+Total time elapsed: -8557.964017629623
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.992010354995728
+Total time elapsed: -8578.95602798462
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.84890055656433
+Total time elapsed: -8598.804928541183
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.674050092697144
+Total time elapsed: -8619.47897863388
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.74759268760681
+Total time elapsed: -8640.226571321487
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.858742475509644
+Total time elapsed: -8661.085313796997
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.2141854763031
+Total time elapsed: -8681.2994992733
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.840517044067383
+Total time elapsed: -8702.140016317368
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.94806981086731
+Total time elapsed: -8722.088086128235
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.011767864227295
+Total time elapsed: -8743.099853992462
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.4577739238739
+Total time elapsed: -8763.557627916336
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.51594853401184
+Total time elapsed: -8784.073576450348
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.125693559646606
+Total time elapsed: -8804.199270009995
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.597413063049316
+Total time elapsed: -8824.796683073044
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.071614503860474
+Total time elapsed: -8845.868297576904
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.009491443634033
+Total time elapsed: -8865.877789020538
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.717405796051025
+Total time elapsed: -8886.59519481659
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.184260368347168
+Total time elapsed: -8906.779455184937
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.325154066085815
+Total time elapsed: -8927.104609251022
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.445627689361572
+Total time elapsed: -8947.550236940384
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.159295320510864
+Total time elapsed: -8967.709532260895
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.221725940704346
+Total time elapsed: -8987.9312582016
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.005223751068115
+Total time elapsed: -9008.936481952667
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.288694858551025
+Total time elapsed: -9029.225176811218
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.529204607009888
+Total time elapsed: -9049.754381418228
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.97354531288147
+Total time elapsed: -9070.72792673111
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.080388069152832
+Total time elapsed: -9090.808314800262
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.158668756484985
+Total time elapsed: -9110.966983556747
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.403759241104126
+Total time elapsed: -9131.370742797852
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.824981927871704
+Total time elapsed: -9152.195724725723
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.600011587142944
+Total time elapsed: -9172.795736312866
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.073359489440918
+Total time elapsed: -9193.869095802307
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.15795922279358
+Total time elapsed: -9214.0270550251
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.227601766586304
+Total time elapsed: -9234.254656791687
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.019590854644775
+Total time elapsed: -9255.274247646332
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.544777393341064
+Total time elapsed: -9275.819025039673
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.928866624832153
+Total time elapsed: -9295.747891664505
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.536113739013672
+Total time elapsed: -9317.284005403519
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.363567352294922
+Total time elapsed: -9337.647572755814
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.087729930877686
+Total time elapsed: -9357.735302686691
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.270915508270264
+Total time elapsed: -9378.006218194962
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.987709522247314
+Total time elapsed: -9398.993927717209
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.126912355422974
+Total time elapsed: -9419.120840072632
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.774221897125244
+Total time elapsed: -9439.895061969757
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.445100784301758
+Total time elapsed: -9460.340162754059
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.762757062911987
+Total time elapsed: -9481.10291981697
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.024611711502075
+Total time elapsed: -9502.127531528473
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.876303672790527
+Total time elapsed: -9522.003835201263
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.861834049224854
+Total time elapsed: -9542.865669250488
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.70707058906555
+Total time elapsed: -9563.572739839554
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.39658498764038
+Total time elapsed: -9583.969324827194
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.055732488632202
+Total time elapsed: -9604.025057315826
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.89798879623413
+Total time elapsed: -9624.92304611206
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.78051733970642
+Total time elapsed: -9644.703563451767
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.255361318588257
+Total time elapsed: -9664.958924770355
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.448349237442017
+Total time elapsed: -9685.407274007797
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.226269960403442
+Total time elapsed: -9705.6335439682
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.505614757537842
+Total time elapsed: -9726.139158725739
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.12151551246643
+Total time elapsed: -9746.260674238205
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.884849071502686
+Total time elapsed: -9767.145523309708
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.624438762664795
+Total time elapsed: -9787.769962072372
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.026045560836792
+Total time elapsed: -9808.79600763321
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.02159309387207
+Total time elapsed: -9828.817600727081
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.719568490982056
+Total time elapsed: -9849.537169218063
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.97840142250061
+Total time elapsed: -9870.515570640564
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.591706037521362
+Total time elapsed: -9891.107276678085
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.308958053588867
+Total time elapsed: -9911.416234731674
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.081151723861694
+Total time elapsed: -9932.497386455536
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -19.961981773376465
+Total time elapsed: -9952.459368228912
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.587685346603394
+Total time elapsed: -9973.047053575516
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.67223286628723
+Total time elapsed: -9993.719286441803
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.550650596618652
+Total time elapsed: -10014.269937038422
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.064095973968506
+Total time elapsed: -10034.33403301239
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.26945471763611
+Total time elapsed: -10054.603487730026
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.75030779838562
+Total time elapsed: -10075.353795528412
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.501705408096313
+Total time elapsed: -10095.855500936508
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.330097436904907
+Total time elapsed: -10117.185598373413
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.200249195098877
+Total time elapsed: -10137.385847568512
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.559586763381958
+Total time elapsed: -10157.945434331894
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.790483474731445
+Total time elapsed: -10178.735917806625
+
+Correct: COVID-19
+Predicted: pneumonia
+Inference time: -20.47859835624695
+Total time elapsed: -10199.214516162872
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.241129159927368
+Total time elapsed: -10219.4556453228
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.155601739883423
+Total time elapsed: -10240.611247062683
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.02890110015869
+Total time elapsed: -10260.640148162842
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.507602214813232
+Total time elapsed: -10281.147750377655
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.92676281929016
+Total time elapsed: -10302.074513196945
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.328775882720947
+Total time elapsed: -10322.403289079666
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.314005613327026
+Total time elapsed: -10342.717294692993
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.560643911361694
+Total time elapsed: -10363.277938604355
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.762455940246582
+Total time elapsed: -10384.040394544601
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.8388671875
+Total time elapsed: -10404.879261732101
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -21.152084827423096
+Total time elapsed: -10426.031346559525
+
+Correct: COVID-19
+Predicted: COVID-19
+Inference time: -20.095743894577026
+Total time elapsed: -10446.127090454102
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.43501377105713
+Total time elapsed: -10466.562104225159
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.77413296699524
+Total time elapsed: -10487.336237192154
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.337267637252808
+Total time elapsed: -10507.673504829407
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.170456409454346
+Total time elapsed: -10527.843961238861
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.936026334762573
+Total time elapsed: -10548.779987573624
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -19.946194887161255
+Total time elapsed: -10568.726182460785
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.554073333740234
+Total time elapsed: -10589.280255794525
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -21.04605531692505
+Total time elapsed: -10610.32631111145
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.515163898468018
+Total time elapsed: -10630.841475009918
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.411840200424194
+Total time elapsed: -10651.253315210342
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.646836519241333
+Total time elapsed: -10671.900151729584
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.454764127731323
+Total time elapsed: -10692.354915857315
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.333067417144775
+Total time elapsed: -10712.68798327446
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -21.086605072021484
+Total time elapsed: -10733.774588346481
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.204999208450317
+Total time elapsed: -10753.979587554932
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.855143547058105
+Total time elapsed: -10774.83473110199
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -21.366095781326294
+Total time elapsed: -10796.200826883316
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.716107606887817
+Total time elapsed: -10816.916934490204
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.056861400604248
+Total time elapsed: -10836.973795890808
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.72761368751526
+Total time elapsed: -10857.701409578323
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.05510449409485
+Total time elapsed: -10877.756514072418
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.619315147399902
+Total time elapsed: -10898.375829219818
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -21.027750492095947
+Total time elapsed: -10919.403579711914
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.376896858215332
+Total time elapsed: -10939.78047657013
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.0404372215271
+Total time elapsed: -10959.820913791656
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.09803557395935
+Total time elapsed: -10979.918949365616
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.40687847137451
+Total time elapsed: -11000.32582783699
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -19.929194927215576
+Total time elapsed: -11020.255022764206
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.916720151901245
+Total time elapsed: -11041.171742916107
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -19.799384593963623
+Total time elapsed: -11060.97112751007
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.177284717559814
+Total time elapsed: -11081.14841222763
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -21.14574098587036
+Total time elapsed: -11102.294153213501
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.60334324836731
+Total time elapsed: -11122.897496461868
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.23119020462036
+Total time elapsed: -11143.128686666489
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.86319065093994
+Total time elapsed: -11163.991877317429
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -19.752124547958374
+Total time elapsed: -11183.744001865387
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.302603006362915
+Total time elapsed: -11204.04660487175
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.598281145095825
+Total time elapsed: -11224.644886016846
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.230363368988037
+Total time elapsed: -11244.875249385834
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -19.9915030002594
+Total time elapsed: -11264.866752386093
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.416175365447998
+Total time elapsed: -11285.282927751541
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.46076273918152
+Total time elapsed: -11305.743690490723
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -19.97979164123535
+Total time elapsed: -11325.723482131958
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.84117078781128
+Total time elapsed: -11346.56465291977
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.405149936676025
+Total time elapsed: -11366.969802856445
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.398757219314575
+Total time elapsed: -11387.36856007576
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -21.28748321533203
+Total time elapsed: -11408.656043291092
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.130251169204712
+Total time elapsed: -11428.786294460297
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.23421335220337
+Total time elapsed: -11449.0205078125
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -21.202406883239746
+Total time elapsed: -11470.22291469574
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.445054054260254
+Total time elapsed: -11490.66796875
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.726210117340088
+Total time elapsed: -11511.39417886734
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.58347201347351
+Total time elapsed: -11531.977650880814
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.472018003463745
+Total time elapsed: -11552.449668884277
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.515434980392456
+Total time elapsed: -11572.96510386467
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.39140295982361
+Total time elapsed: -11593.356506824493
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.824238061904907
+Total time elapsed: -11614.180744886398
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.17287516593933
+Total time elapsed: -11634.353620052338
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.934239387512207
+Total time elapsed: -11655.28785943985
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.16233468055725
+Total time elapsed: -11675.450194120407
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.351398229599
+Total time elapsed: -11695.801592350006
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.58590316772461
+Total time elapsed: -11716.38749551773
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.431264400482178
+Total time elapsed: -11736.818759918213
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -19.92977738380432
+Total time elapsed: -11756.748537302017
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.718406438827515
+Total time elapsed: -11777.466943740845
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.904579162597656
+Total time elapsed: -11798.371522903442
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.3555006980896
+Total time elapsed: -11818.727023601532
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.58536386489868
+Total time elapsed: -11839.31238746643
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.683114767074585
+Total time elapsed: -11859.995502233505
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.10964035987854
+Total time elapsed: -11880.105142593384
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.411010265350342
+Total time elapsed: -11900.516152858734
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.457314014434814
+Total time elapsed: -11920.973466873169
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.284127712249756
+Total time elapsed: -11941.257594585419
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.64241361618042
+Total time elapsed: -11961.9000082016
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.184287071228027
+Total time elapsed: -11982.084295272827
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.35175108909607
+Total time elapsed: -12002.436046361923
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.67985200881958
+Total time elapsed: -12023.115898370743
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -21.04263925552368
+Total time elapsed: -12044.158537626266
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.07965660095215
+Total time elapsed: -12064.238194227219
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.856462955474854
+Total time elapsed: -12085.094657182693
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -19.970407009124756
+Total time elapsed: -12105.065064191818
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.3861722946167
+Total time elapsed: -12125.451236486435
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.494866132736206
+Total time elapsed: -12145.946102619171
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.669671773910522
+Total time elapsed: -12166.615774393082
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.017719984054565
+Total time elapsed: -12186.633494377136
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -19.917733430862427
+Total time elapsed: -12206.551227807999
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -21.145188808441162
+Total time elapsed: -12227.69641661644
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.397255897521973
+Total time elapsed: -12248.093672513962
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -21.014432191848755
+Total time elapsed: -12269.10810470581
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -19.59742832183838
+Total time elapsed: -12288.705533027649
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.195589303970337
+Total time elapsed: -12308.90112233162
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.997461080551147
+Total time elapsed: -12329.89858341217
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.423154592514038
+Total time elapsed: -12350.321738004684
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.009166479110718
+Total time elapsed: -12370.330904483795
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -21.720625638961792
+Total time elapsed: -12392.051530122757
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.434937715530396
+Total time elapsed: -12412.486467838287
+
+Correct: pneumonia
+Predicted: COVID-19
+Inference time: -20.611653804779053
+Total time elapsed: -12433.098121643066
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.746214151382446
+Total time elapsed: -12453.844335794449
+
+Correct: normal
+Predicted: normal
+Inference time: -20.39354920387268
+Total time elapsed: -12474.237884998322
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.23596954345703
+Total time elapsed: -12494.473854541779
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.284255981445312
+Total time elapsed: -12514.758110523224
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.548895120620728
+Total time elapsed: -12535.307005643845
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.111696243286133
+Total time elapsed: -12555.41870188713
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.890630960464478
+Total time elapsed: -12576.309332847595
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.56542706489563
+Total time elapsed: -12596.87475991249
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.560293674468994
+Total time elapsed: -12617.43505358696
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.693933248519897
+Total time elapsed: -12638.12898683548
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.56243109703064
+Total time elapsed: -12658.69141793251
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.389306783676147
+Total time elapsed: -12679.080724716187
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.974109411239624
+Total time elapsed: -12700.054834127426
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.594335556030273
+Total time elapsed: -12720.649169683456
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.841407299041748
+Total time elapsed: -12741.490576982498
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.045734882354736
+Total time elapsed: -12762.536311864853
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.5961275100708
+Total time elapsed: -12783.132439374924
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.18252420425415
+Total time elapsed: -12803.314963579178
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.685136079788208
+Total time elapsed: -12824.000099658966
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.578349351882935
+Total time elapsed: -12844.578449010849
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.160173654556274
+Total time elapsed: -12864.738622665405
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.12006950378418
+Total time elapsed: -12885.85869216919
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.150914669036865
+Total time elapsed: -12906.009606838226
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.328890800476074
+Total time elapsed: -12926.338497638702
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.63161039352417
+Total time elapsed: -12946.970108032227
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.252724409103394
+Total time elapsed: -12967.22283244133
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.54853367805481
+Total time elapsed: -12987.771366119385
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.20666527748108
+Total time elapsed: -13008.978031396866
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.780763864517212
+Total time elapsed: -13028.758795261383
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.02459979057312
+Total time elapsed: -13048.783395051956
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.495957374572754
+Total time elapsed: -13069.279352426529
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.163511991500854
+Total time elapsed: -13089.44286441803
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.875054597854614
+Total time elapsed: -13109.317919015884
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.14537477493286
+Total time elapsed: -13129.463293790817
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.864661931991577
+Total time elapsed: -13150.327955722809
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.064400672912598
+Total time elapsed: -13170.392356395721
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.710789918899536
+Total time elapsed: -13191.103146314621
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.996423959732056
+Total time elapsed: -13211.099570274353
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.39081859588623
+Total time elapsed: -13231.49038887024
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.42009425163269
+Total time elapsed: -13251.910483121872
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.20408868789673
+Total time elapsed: -13272.114571809769
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.071243047714233
+Total time elapsed: -13292.185814857483
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.734281301498413
+Total time elapsed: -13312.920096158981
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.90439486503601
+Total time elapsed: -13332.824491024017
+
+Correct: normal
+Predicted: normal
+Inference time: -20.19922113418579
+Total time elapsed: -13353.023712158203
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.416404008865356
+Total time elapsed: -13373.440116167068
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.7382173538208
+Total time elapsed: -13394.17833352089
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.331198930740356
+Total time elapsed: -13414.50953245163
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.41399621963501
+Total time elapsed: -13434.923528671265
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.63849925994873
+Total time elapsed: -13455.562027931213
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.211771249771118
+Total time elapsed: -13475.773799180984
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.028393030166626
+Total time elapsed: -13496.802192211151
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.078426599502563
+Total time elapsed: -13516.880618810654
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.687718152999878
+Total time elapsed: -13537.568336963654
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.78101634979248
+Total time elapsed: -13558.349353313446
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.621671438217163
+Total time elapsed: -13578.971024751663
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.220715761184692
+Total time elapsed: -13599.191740512848
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.00907826423645
+Total time elapsed: -13620.200818777084
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.930453538894653
+Total time elapsed: -13640.131272315979
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.437429189682007
+Total time elapsed: -13660.568701505661
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.14198112487793
+Total time elapsed: -13681.710682630539
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.56565833091736
+Total time elapsed: -13702.276340961456
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.735071897506714
+Total time elapsed: -13723.011412858963
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.091482639312744
+Total time elapsed: -13744.102895498276
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.062840700149536
+Total time elapsed: -13765.165736198425
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.301318407058716
+Total time elapsed: -13785.467054605484
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.789713859558105
+Total time elapsed: -13806.256768465042
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.09265685081482
+Total time elapsed: -13826.349425315857
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.641525983810425
+Total time elapsed: -13846.990951299667
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.779882192611694
+Total time elapsed: -13867.770833492279
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.34459662437439
+Total time elapsed: -13888.115430116653
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.898479461669922
+Total time elapsed: -13908.013909578323
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.090481996536255
+Total time elapsed: -13929.10439157486
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.74757170677185
+Total time elapsed: -13948.851963281631
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.39699363708496
+Total time elapsed: -13969.248956918716
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.9481840133667
+Total time elapsed: -13990.197140932083
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.757493495941162
+Total time elapsed: -14010.954634428024
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.09534764289856
+Total time elapsed: -14031.049982070923
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.47649574279785
+Total time elapsed: -14051.52647781372
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.113309144973755
+Total time elapsed: -14072.639786958694
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.983968019485474
+Total time elapsed: -14092.62375497818
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.763951778411865
+Total time elapsed: -14113.387706756592
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.90934705734253
+Total time elapsed: -14133.297053813934
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.380106210708618
+Total time elapsed: -14153.677160024643
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.709243774414062
+Total time elapsed: -14174.386403799057
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.66020107269287
+Total time elapsed: -14195.04660487175
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.36438775062561
+Total time elapsed: -14215.410992622375
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.926600456237793
+Total time elapsed: -14236.337593078613
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.33280324935913
+Total time elapsed: -14256.670396327972
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.380730390548706
+Total time elapsed: -14277.051126718521
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.21979284286499
+Total time elapsed: -14298.270919561386
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.588168621063232
+Total time elapsed: -14318.85908818245
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.067442893981934
+Total time elapsed: -14338.926531076431
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.10406255722046
+Total time elapsed: -14360.030593633652
+
+Correct: normal
+Predicted: normal
+Inference time: -20.992177724838257
+Total time elapsed: -14381.02277135849
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.834117650985718
+Total time elapsed: -14400.856889009476
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.210033178329468
+Total time elapsed: -14422.066922187805
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.80573296546936
+Total time elapsed: -14441.872655153275
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.08642268180847
+Total time elapsed: -14461.959077835083
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.675180435180664
+Total time elapsed: -14482.634258270264
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.916362285614014
+Total time elapsed: -14503.550620555878
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.71038794517517
+Total time elapsed: -14523.261008501053
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.579166650772095
+Total time elapsed: -14543.840175151825
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.465891361236572
+Total time elapsed: -14563.306066513062
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.319042921066284
+Total time elapsed: -14583.625109434128
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.288848876953125
+Total time elapsed: -14603.913958311081
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.625953435897827
+Total time elapsed: -14624.539911746979
+
+Correct: normal
+Predicted: normal
+Inference time: -20.510276079177856
+Total time elapsed: -14645.050187826157
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.386940717697144
+Total time elapsed: -14665.437128543854
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.368902444839478
+Total time elapsed: -14685.806030988693
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.38192367553711
+Total time elapsed: -14706.18795466423
+
+Correct: normal
+Predicted: normal
+Inference time: -21.01432466506958
+Total time elapsed: -14727.2022793293
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.12346339225769
+Total time elapsed: -14747.325742721558
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.350903272628784
+Total time elapsed: -14767.676645994186
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.94337224960327
+Total time elapsed: -14788.62001824379
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.517844676971436
+Total time elapsed: -14809.137862920761
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.02432155609131
+Total time elapsed: -14829.162184476852
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.709644079208374
+Total time elapsed: -14849.87182855606
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.964848279953003
+Total time elapsed: -14869.836676836014
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.40599799156189
+Total time elapsed: -14890.242674827576
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.289454221725464
+Total time elapsed: -14910.532129049301
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.847148656845093
+Total time elapsed: -14931.379277706146
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.22601628303528
+Total time elapsed: -14951.605293989182
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.306317567825317
+Total time elapsed: -14971.911611557007
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.175151348114014
+Total time elapsed: -14993.08676290512
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.975003480911255
+Total time elapsed: -15013.061766386032
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.239677906036377
+Total time elapsed: -15034.301444292068
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.99959945678711
+Total time elapsed: -15054.301043748856
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.39405918121338
+Total time elapsed: -15074.695102930069
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.458425045013428
+Total time elapsed: -15095.153527975082
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.034773349761963
+Total time elapsed: -15116.188301324844
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.19648575782776
+Total time elapsed: -15136.384787082672
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.022552967071533
+Total time elapsed: -15157.407340049744
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.167296171188354
+Total time elapsed: -15177.574636220932
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.171161651611328
+Total time elapsed: -15197.745797872543
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.9302875995636
+Total time elapsed: -15218.676085472107
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.29371213912964
+Total time elapsed: -15238.969797611237
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.80762529373169
+Total time elapsed: -15258.777422904968
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.642913103103638
+Total time elapsed: -15279.420336008072
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.548008918762207
+Total time elapsed: -15299.968344926834
+
+Correct: normal
+Predicted: normal
+Inference time: -20.011523246765137
+Total time elapsed: -15319.9798681736
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.438870668411255
+Total time elapsed: -15341.41873884201
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.273858547210693
+Total time elapsed: -15361.692597389221
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.540669441223145
+Total time elapsed: -15382.233266830444
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.026378393173218
+Total time elapsed: -15403.259645223618
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.577178239822388
+Total time elapsed: -15423.83682346344
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.180166006088257
+Total time elapsed: -15444.016989469528
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.91229224205017
+Total time elapsed: -15464.929281711578
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.815876245498657
+Total time elapsed: -15484.745157957077
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.15699863433838
+Total time elapsed: -15505.902156591415
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.358855962753296
+Total time elapsed: -15527.261012554169
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.69404888153076
+Total time elapsed: -15547.9550614357
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.12467384338379
+Total time elapsed: -15568.079735279083
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.598615407943726
+Total time elapsed: -15588.678350687027
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.65935969352722
+Total time elapsed: -15609.337710380554
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.201462268829346
+Total time elapsed: -15629.539172649384
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.9153790473938
+Total time elapsed: -15650.454551696777
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.980016231536865
+Total time elapsed: -15670.434567928314
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.724391222000122
+Total time elapsed: -15691.158959150314
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.13008165359497
+Total time elapsed: -15712.28904080391
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.359448432922363
+Total time elapsed: -15732.648489236832
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.220938444137573
+Total time elapsed: -15752.86942768097
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.900989294052124
+Total time elapsed: -15774.770416975021
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.973061561584473
+Total time elapsed: -15794.743478536606
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.10019540786743
+Total time elapsed: -15814.843673944473
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.49126386642456
+Total time elapsed: -15835.334937810898
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.5245623588562
+Total time elapsed: -15855.859500169754
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.01313090324402
+Total time elapsed: -15875.872631072998
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.189651489257812
+Total time elapsed: -15896.062282562256
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.492289781570435
+Total time elapsed: -15916.554572343826
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.90246605873108
+Total time elapsed: -15936.457038402557
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.193034648895264
+Total time elapsed: -15957.650073051453
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.65450668334961
+Total time elapsed: -15977.304579734802
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.173996925354004
+Total time elapsed: -15997.478576660156
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.206523180007935
+Total time elapsed: -16018.685099840164
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.632657766342163
+Total time elapsed: -16039.317757606506
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.365216732025146
+Total time elapsed: -16059.682974338531
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.356062412261963
+Total time elapsed: -16080.039036750793
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.892641067504883
+Total time elapsed: -16099.931677818298
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.030601978302002
+Total time elapsed: -16119.9622797966
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.9621422290802
+Total time elapsed: -16140.92442202568
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.037883758544922
+Total time elapsed: -16161.962305784225
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.319926023483276
+Total time elapsed: -16182.282231807709
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.50862693786621
+Total time elapsed: -16202.790858745575
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.790898084640503
+Total time elapsed: -16223.581756830215
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.364590406417847
+Total time elapsed: -16243.946347236633
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.662046432495117
+Total time elapsed: -16264.608393669128
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.257105350494385
+Total time elapsed: -16284.865499019623
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.645885944366455
+Total time elapsed: -16305.51138496399
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.78110146522522
+Total time elapsed: -16326.292486429214
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.87014651298523
+Total time elapsed: -16346.1626329422
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.960514307022095
+Total time elapsed: -16366.123147249222
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.994079113006592
+Total time elapsed: -16387.11722636223
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.207296133041382
+Total time elapsed: -16407.32452249527
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.317604064941406
+Total time elapsed: -16427.64212656021
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.677090644836426
+Total time elapsed: -16448.319217205048
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.573880195617676
+Total time elapsed: -16468.893097400665
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.98240613937378
+Total time elapsed: -16488.87550354004
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.67639422416687
+Total time elapsed: -16508.551897764206
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.122581005096436
+Total time elapsed: -16529.674478769302
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.83640217781067
+Total time elapsed: -16550.510880947113
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.499256134033203
+Total time elapsed: -16571.010137081146
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.339938402175903
+Total time elapsed: -16591.350075483322
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.002118587493896
+Total time elapsed: -16611.352194070816
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.22645854949951
+Total time elapsed: -16632.578652620316
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.88503885269165
+Total time elapsed: -16653.463691473007
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.02633261680603
+Total time elapsed: -16673.490024089813
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.7636981010437
+Total time elapsed: -16694.253722190857
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.198517560958862
+Total time elapsed: -16714.452239751816
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.153515338897705
+Total time elapsed: -16734.605755090714
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.809160470962524
+Total time elapsed: -16755.414915561676
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.735780239105225
+Total time elapsed: -16776.15069580078
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.40179705619812
+Total time elapsed: -16796.55249285698
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.245354175567627
+Total time elapsed: -16816.797847032547
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.69363284111023
+Total time elapsed: -16837.491479873657
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.4081130027771
+Total time elapsed: -16857.899592876434
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.941293239593506
+Total time elapsed: -16878.840886116028
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.39335036277771
+Total time elapsed: -16899.234236478806
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.382131338119507
+Total time elapsed: -16919.616367816925
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.535333395004272
+Total time elapsed: -16940.15170121193
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.18006658554077
+Total time elapsed: -16960.33176779747
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.902509927749634
+Total time elapsed: -16980.23427772522
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.937946796417236
+Total time elapsed: -17001.172224521637
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.686229705810547
+Total time elapsed: -17020.858454227448
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.58059072494507
+Total time elapsed: -17041.439044952393
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.58947491645813
+Total time elapsed: -17062.02851986885
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.19659113883972
+Total time elapsed: -17082.22511100769
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.64187502861023
+Total time elapsed: -17102.8669860363
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.10580015182495
+Total time elapsed: -17122.972786188126
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.64712619781494
+Total time elapsed: -17143.61991238594
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.177778482437134
+Total time elapsed: -17163.797690868378
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.339828491210938
+Total time elapsed: -17184.13751935959
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.593316316604614
+Total time elapsed: -17203.730835676193
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.661901712417603
+Total time elapsed: -17223.39273738861
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.98378825187683
+Total time elapsed: -17244.376525640488
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.902265548706055
+Total time elapsed: -17264.278791189194
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.16814422607422
+Total time elapsed: -17284.446935415268
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.77280831336975
+Total time elapsed: -17305.219743728638
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.84004497528076
+Total time elapsed: -17325.05978870392
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.45950937271118
+Total time elapsed: -17345.51929807663
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.54875636100769
+Total time elapsed: -17366.068054437637
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.599935293197632
+Total time elapsed: -17386.667989730835
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.79499316215515
+Total time elapsed: -17406.46298289299
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.989662170410156
+Total time elapsed: -17426.4526450634
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.55916690826416
+Total time elapsed: -17447.011811971664
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.753488302230835
+Total time elapsed: -17466.765300273895
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.67413091659546
+Total time elapsed: -17487.43943119049
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.402006149291992
+Total time elapsed: -17507.841437339783
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.305127382278442
+Total time elapsed: -17528.14656472206
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.278039693832397
+Total time elapsed: -17548.424604415894
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.763246059417725
+Total time elapsed: -17569.18785047531
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.53557538986206
+Total time elapsed: -17589.723425865173
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.387336492538452
+Total time elapsed: -17611.11076235771
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.285090684890747
+Total time elapsed: -17631.395853042603
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.513334035873413
+Total time elapsed: -17651.909187078476
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.48675227165222
+Total time elapsed: -17672.395939350128
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.33688259124756
+Total time elapsed: -17692.732821941376
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.72435998916626
+Total time elapsed: -17712.457181930542
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.141868114471436
+Total time elapsed: -17732.599050045013
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.762324333190918
+Total time elapsed: -17753.361374378204
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.865214586257935
+Total time elapsed: -17773.226588964462
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.43977403640747
+Total time elapsed: -17793.66636300087
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.84194254875183
+Total time elapsed: -17813.50830554962
+
+Correct: normal
+Predicted: normal
+Inference time: -20.446288585662842
+Total time elapsed: -17833.954594135284
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.59403109550476
+Total time elapsed: -17854.54862523079
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.120949029922485
+Total time elapsed: -17874.66957426071
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.059196949005127
+Total time elapsed: -17894.728771209717
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.70702362060547
+Total time elapsed: -17915.435794830322
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.782493829727173
+Total time elapsed: -17935.21828866005
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.031490325927734
+Total time elapsed: -17955.249778985977
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.643004417419434
+Total time elapsed: -17975.892783403397
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.252262353897095
+Total time elapsed: -17996.145045757294
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.923882961273193
+Total time elapsed: -18016.068928718567
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.982640027999878
+Total time elapsed: -18036.051568746567
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.69209861755371
+Total time elapsed: -18056.74366736412
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.344243049621582
+Total time elapsed: -18077.087910413742
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.63429093360901
+Total time elapsed: -18097.72220134735
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.669434547424316
+Total time elapsed: -18117.391635894775
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.21223783493042
+Total time elapsed: -18137.603873729706
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.603771209716797
+Total time elapsed: -18158.207644939423
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.05628275871277
+Total time elapsed: -18178.263927698135
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.35685157775879
+Total time elapsed: -18197.620779275894
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.60780692100525
+Total time elapsed: -18218.2285861969
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.755850315093994
+Total time elapsed: -18237.984436511993
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.54690933227539
+Total time elapsed: -18258.53134584427
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.392130136489868
+Total time elapsed: -18278.92347598076
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.17990469932556
+Total time elapsed: -18299.103380680084
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.774249792099
+Total time elapsed: -18318.877630472183
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.717309713363647
+Total time elapsed: -18339.594940185547
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.29633069038391
+Total time elapsed: -18360.89127087593
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.307626008987427
+Total time elapsed: -18381.19889688492
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.041073083877563
+Total time elapsed: -18402.239969968796
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.87121319770813
+Total time elapsed: -18422.111183166504
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.590137720108032
+Total time elapsed: -18442.701320886612
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.000282764434814
+Total time elapsed: -18463.701603651047
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.58110761642456
+Total time elapsed: -18484.28271126747
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.29425883293152
+Total time elapsed: -18504.576970100403
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.75870966911316
+Total time elapsed: -18525.335679769516
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.962464094161987
+Total time elapsed: -18545.298143863678
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.78428030014038
+Total time elapsed: -18566.08242416382
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.536438703536987
+Total time elapsed: -18586.618862867355
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.777886390686035
+Total time elapsed: -18607.39674925804
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.346426963806152
+Total time elapsed: -18627.743176221848
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.219810485839844
+Total time elapsed: -18647.962986707687
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.534124612808228
+Total time elapsed: -18668.497111320496
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.975553274154663
+Total time elapsed: -18688.47266459465
+
+Correct: normal
+Predicted: normal
+Inference time: -20.51005244255066
+Total time elapsed: -18708.9827170372
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.136577129364014
+Total time elapsed: -18729.119294166565
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.65885305404663
+Total time elapsed: -18749.77814722061
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.093393564224243
+Total time elapsed: -18770.871540784836
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.563580989837646
+Total time elapsed: -18791.435121774673
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.273805856704712
+Total time elapsed: -18811.708927631378
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.232800722122192
+Total time elapsed: -18832.9417283535
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.234938859939575
+Total time elapsed: -18853.17666721344
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.547008514404297
+Total time elapsed: -18873.723675727844
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.684422969818115
+Total time elapsed: -18894.408098697662
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.37909770011902
+Total time elapsed: -18914.78719639778
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.335121393203735
+Total time elapsed: -18935.122317790985
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.132145643234253
+Total time elapsed: -18955.25446343422
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.237239837646484
+Total time elapsed: -18976.491703271866
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.3202166557312
+Total time elapsed: -18996.811919927597
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.613556385040283
+Total time elapsed: -19018.425476312637
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.31863307952881
+Total time elapsed: -19038.744109392166
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.59377908706665
+Total time elapsed: -19059.337888479233
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.991527318954468
+Total time elapsed: -19080.329415798187
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.453367948532104
+Total time elapsed: -19100.78278374672
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.772735118865967
+Total time elapsed: -19120.555518865585
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.80709409713745
+Total time elapsed: -19141.362612962723
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.08320903778076
+Total time elapsed: -19161.445822000504
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.29172396659851
+Total time elapsed: -19181.737545967102
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.54468059539795
+Total time elapsed: -19203.2822265625
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.882292985916138
+Total time elapsed: -19224.164519548416
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.74795365333557
+Total time elapsed: -19243.91247320175
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.663652658462524
+Total time elapsed: -19264.576125860214
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.111668825149536
+Total time elapsed: -19285.687794685364
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.14175510406494
+Total time elapsed: -19305.82954978943
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.960135221481323
+Total time elapsed: -19326.78968501091
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.587740898132324
+Total time elapsed: -19346.377425909042
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.4122953414917
+Total time elapsed: -19366.789721250534
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.13935136795044
+Total time elapsed: -19387.929072618484
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.259709358215332
+Total time elapsed: -19408.1887819767
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.903558492660522
+Total time elapsed: -19428.09234046936
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.167813777923584
+Total time elapsed: -19449.260154247284
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.245328664779663
+Total time elapsed: -19469.505482912064
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.224374532699585
+Total time elapsed: -19489.729857444763
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.77669644355774
+Total time elapsed: -19510.50655388832
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.520421028137207
+Total time elapsed: -19531.026974916458
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.909861087799072
+Total time elapsed: -19550.936836004257
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.09613847732544
+Total time elapsed: -19571.032974481583
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.66995668411255
+Total time elapsed: -19591.702931165695
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.335005521774292
+Total time elapsed: -19612.03793668747
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.102571487426758
+Total time elapsed: -19633.140508174896
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.988183975219727
+Total time elapsed: -19653.128692150116
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.874032020568848
+Total time elapsed: -19674.002724170685
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.1599063873291
+Total time elapsed: -19695.162630558014
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.91472029685974
+Total time elapsed: -19716.077350854874
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.103364944458008
+Total time elapsed: -19736.18071579933
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.341812133789062
+Total time elapsed: -19757.52252793312
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.157643795013428
+Total time elapsed: -19777.680171728134
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.876550674438477
+Total time elapsed: -19798.556722402573
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.1377215385437
+Total time elapsed: -19819.694443941116
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.163187980651855
+Total time elapsed: -19839.85763192177
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.83829140663147
+Total time elapsed: -19859.6959233284
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.08575940132141
+Total time elapsed: -19880.78168272972
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.59822916984558
+Total time elapsed: -19901.379911899567
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.410813331604004
+Total time elapsed: -19921.79072523117
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.683412313461304
+Total time elapsed: -19942.474137544632
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.724997520446777
+Total time elapsed: -19962.19913506508
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.883407592773438
+Total time elapsed: -19983.082542657852
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.012986660003662
+Total time elapsed: -20004.095529317856
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.38816547393799
+Total time elapsed: -20024.483694791794
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.045400857925415
+Total time elapsed: -20044.52909564972
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.72564196586609
+Total time elapsed: -20065.254737615585
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.35741877555847
+Total time elapsed: -20085.612156391144
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.56807589530945
+Total time elapsed: -20106.180232286453
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.878803253173828
+Total time elapsed: -20127.059035539627
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.353504180908203
+Total time elapsed: -20147.412539720535
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.434367656707764
+Total time elapsed: -20167.846907377243
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.45125675201416
+Total time elapsed: -20188.298164129257
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.869710445404053
+Total time elapsed: -20209.16787457466
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.2793972492218
+Total time elapsed: -20229.447271823883
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.92942523956299
+Total time elapsed: -20250.376697063446
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.39830780029297
+Total time elapsed: -20270.77500486374
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.302831888198853
+Total time elapsed: -20291.077836751938
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.56921100616455
+Total time elapsed: -20311.647047758102
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.412391662597656
+Total time elapsed: -20332.0594394207
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.252505779266357
+Total time elapsed: -20352.311945199966
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.61277985572815
+Total time elapsed: -20372.924725055695
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -19.961572885513306
+Total time elapsed: -20392.886297941208
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.813292503356934
+Total time elapsed: -20413.699590444565
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.44037437438965
+Total time elapsed: -20434.139964818954
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.75933265686035
+Total time elapsed: -20454.899297475815
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.169645071029663
+Total time elapsed: -20475.068942546844
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.91765022277832
+Total time elapsed: -20495.986592769623
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.853838682174683
+Total time elapsed: -20516.840431451797
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.357467651367188
+Total time elapsed: -20537.197899103165
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.698986530303955
+Total time elapsed: -20557.89688563347
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.023762464523315
+Total time elapsed: -20577.920648097992
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.354621171951294
+Total time elapsed: -20598.275269269943
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.872214555740356
+Total time elapsed: -20619.147483825684
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.626253843307495
+Total time elapsed: -20639.77373766899
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.30182981491089
+Total time elapsed: -20660.075567483902
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.33674955368042
+Total time elapsed: -20681.412317037582
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.671862363815308
+Total time elapsed: -20702.084179401398
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.04286503791809
+Total time elapsed: -20723.127044439316
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.08129596710205
+Total time elapsed: -20744.208340406418
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.473840475082397
+Total time elapsed: -20764.6821808815
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.547940969467163
+Total time elapsed: -20785.230121850967
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.6366183757782
+Total time elapsed: -20805.866740226746
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.293083429336548
+Total time elapsed: -20827.159823656082
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -20.253678798675537
+Total time elapsed: -20847.413502454758
+
+Correct: normal
+Predicted: COVID-19
+Inference time: -21.314650774002075
+Total time elapsed: -20868.72815322876
+
+Correct: normal

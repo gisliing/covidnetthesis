@@ -1,0 +1,35 @@
+  1) Stages/Devel-2020
+
+Currently Loaded Modules:
+  1) Stages/Devel-2019a          (S)    11) zlib/.1.2.11       (H)  21) fontconfig/.2.13.1 (H)  31) PostgreSQL/11.2                     41) FFmpeg/.4.1.3                  (H)  51) h5py/2.9.0-serial-Python-3.6.8
+  2) GCC/8.3.0                          12) ncurses/.6.1       (H)  22) X11/20190311            32) protobuf/.3.7.1                (H)  42) numactl/2.0.12                      52) Keras/2.2.4-GPU-Python-3.6.8
+  3) GCCcore/.8.3.0              (H)    13) libreadline/.8.0   (H)  23) Tk/.8.6.9          (H)  33) gflags/.2.2.2                  (H)  43) MPFR/4.0.2                          53) Horovod/0.16.2-GPU-Python-3.6.8    (g)
+  4) binutils/.2.32              (H)    14) Tcl/8.6.9               24) GMP/6.1.2               34) libspatialindex/.1.9.0         (H)  44) NCCL/2.4.6-1-CUDA-10.1.105     (g)  54) TensorFlow/1.13.1-GPU-Python-3.6.8 (g)
+  5) nvidia/.418.87.00           (H,g)  15) SQLite/.3.27.2     (H)  25) XZ/.5.2.4          (H)  35) NASM/.2.14.02                  (H)  45) cuDNN/7.5.1.10-CUDA-10.1.105   (g)  55) dask/1.1.5-Python-3.6.8
+  6) CUDA/10.1.105               (g)    16) expat/.2.2.6       (H)  26) libxml2/.2.9.9     (H)  36) libjpeg-turbo/.2.0.2           (H)  46) libunwind/.1.3.1               (H)  56) scikit/2019a-Python-3.6.8
+  7) UCX/1.6.1                          17) libpng/.1.6.36     (H)  27) libxslt/.1.1.33    (H)  37) Python/3.6.8                        47) glog/.0.4.0                    (H)
+  8) pscom/.5.4.2-1-CUDA         (H)    18) freetype/.2.10.0   (H)  28) libffi/.3.2.1      (H)  38) imkl/.2019.3.199               (H)  48) PyTorch/1.1.0-GPU-Python-3.6.8 (g)
+  9) ParaStationMPI/5.4.0-1-CUDA        19) gperf/.3.1         (H)  29) libyaml/.0.2.2     (H)  39) SciPy-Stack/2019a-Python-3.6.8      49) Szip/.2.1.1                    (H)
+ 10) bzip2/.1.0.6                (H)    20) util-linux/.2.33.1 (H)  30) Java/1.8                40) x264/.20190429                 (H)  50) HDF5/1.10.5-serial
+
+  Where:
+   H:  Hidden Module
+   S:  Module is Sticky, requires --force to unload or purge
+   g:  built for GPU
+
+ 
+
+cpu_bind=NONE - dp-dam03, task  0  0 [11779]: mask 0xffffffffffffffffffffffff set
+Traceback (most recent call last):
+  File "training.py", line 181, in <module>
+    logit_tensorname, label_tensorname, weights_tensorname)
+  File "training.py", line 79, in covidnet_train
+    is_training = graph.get_tensor_by_name('keras_learning_phase:0')
+  File "/usr/local/software/skylake/Stages/Devel-2019a/software/TensorFlow/1.13.1-GCCcore-8.3.0-GPU-Python-3.6.8/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 3654, in get_tensor_by_name
+    return self.as_graph_element(name, allow_tensor=True, allow_operation=False)
+  File "/usr/local/software/skylake/Stages/Devel-2019a/software/TensorFlow/1.13.1-GCCcore-8.3.0-GPU-Python-3.6.8/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 3478, in as_graph_element
+    return self._as_graph_element_locked(obj, allow_tensor, allow_operation)
+  File "/usr/local/software/skylake/Stages/Devel-2019a/software/TensorFlow/1.13.1-GCCcore-8.3.0-GPU-Python-3.6.8/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 3520, in _as_graph_element_locked
+    "graph." % (repr(name), repr(op_name)))
+KeyError: "The name 'keras_learning_phase:0' refers to a Tensor which does not exist. The operation, 'keras_learning_phase', does not exist in the graph."
+srun: error: dp-dam03: task 0: Exited with exit code 1

@@ -1,0 +1,13 @@
+model,labels,classweights_normal,classweights_pneumonia,classweights_covid19,covid_percent,learning_rate,batch_size
+/models/COVIDNet-CXR-Gisli,ehl_edited_0.8,1.0,2.0,1.5,0.085,1e-05,32
+/models/COVIDNet-CXR-Gisli,ehl_edited_0.8,1.0,2.0,2.0,0.085,1e-05,32
+/models/COVIDNet-CXR-Gisli,ehl_edited_0.8,1.0,2.0,3.0,0.085,1e-05,32
+/models/COVIDNet-CXR-Gisli,ehl_edited_0.8,1.0,3.0,1.5,0.085,1e-05,32
+/models/COVIDNet-CXR-Gisli,ehl_edited_0.8,1.0,3.0,2.0,0.085,1e-05,32
+/models/COVIDNet-CXR-Gisli,ehl_edited_0.8,1.0,3.0,3.0,0.085,1e-05,32
+/models/COVIDNet-CXR-Gisli,ehl_edited_0.8,1.0,5.0,1.5,0.085,1e-05,32
+/models/COVIDNet-CXR-Gisli,ehl_edited_0.8,1.0,5.0,2.0,0.085,1e-05,32
+/models/COVIDNet-CXR-Gisli,ehl_edited_0.8,1.0,5.0,3.0,0.085,1e-05,32
+/models/COVIDNet-CXR-Gisli,ehl_edited_0.8,1.0,8.0,1.5,0.085,1e-05,32
+/models/COVIDNet-CXR-Gisli,ehl_edited_0.8,1.0,8.0,2.0,0.085,1e-05,32
+/models/COVIDNet-CXR-Gisli,ehl_edited_0.8,1.0,8.0,3.0,0.085,1e-05,32

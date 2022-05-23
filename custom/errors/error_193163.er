@@ -1,0 +1,62 @@
+  1) Stages/Devel-2020
+
+Currently Loaded Modules:
+  1) Stages/Devel-2019a          (S)    19) gperf/.3.1             (H)  37) Python/3.6.8
+  2) GCC/8.3.0                          20) util-linux/.2.33.1     (H)  38) imkl/.2019.3.199                   (H)
+  3) GCCcore/.8.3.0              (H)    21) fontconfig/.2.13.1     (H)  39) SciPy-Stack/2019a-Python-3.6.8
+  4) binutils/.2.32              (H)    22) X11/20190311                40) x264/.20190429                     (H)
+  5) nvidia/.418.87.00           (H,g)  23) Tk/.8.6.9              (H)  41) FFmpeg/.4.1.3                      (H)
+  6) CUDA/10.1.105               (g)    24) GMP/6.1.2                   42) numactl/2.0.12
+  7) UCX/1.6.1                          25) XZ/.5.2.4              (H)  43) MPFR/4.0.2
+  8) pscom/.5.4.2-1-CUDA         (H)    26) libxml2/.2.9.9         (H)  44) NCCL/2.4.6-1-CUDA-10.1.105         (g)
+  9) ParaStationMPI/5.4.0-1-CUDA        27) libxslt/.1.1.33        (H)  45) cuDNN/7.5.1.10-CUDA-10.1.105       (g)
+ 10) bzip2/.1.0.6                (H)    28) libffi/.3.2.1          (H)  46) libunwind/.1.3.1                   (H)
+ 11) zlib/.1.2.11                (H)    29) libyaml/.0.2.2         (H)  47) glog/.0.4.0                        (H)
+ 12) ncurses/.6.1                (H)    30) Java/1.8                    48) PyTorch/1.1.0-GPU-Python-3.6.8     (g)
+ 13) libreadline/.8.0            (H)    31) PostgreSQL/11.2             49) Szip/.2.1.1                        (H)
+ 14) Tcl/8.6.9                          32) protobuf/.3.7.1        (H)  50) HDF5/1.10.5-serial
+ 15) SQLite/.3.27.2              (H)    33) gflags/.2.2.2          (H)  51) h5py/2.9.0-serial-Python-3.6.8
+ 16) expat/.2.2.6                (H)    34) libspatialindex/.1.9.0 (H)  52) Keras/2.2.4-GPU-Python-3.6.8
+ 17) libpng/.1.6.36              (H)    35) NASM/.2.14.02          (H)  53) Horovod/0.16.2-GPU-Python-3.6.8    (g)
+ 18) freetype/.2.10.0            (H)    36) libjpeg-turbo/.2.0.2   (H)  54) TensorFlow/1.13.1-GPU-Python-3.6.8 (g)
+
+  Where:
+   H:  Hidden Module
+   S:  Module is Sticky, requires --force to unload or purge
+   g:  built for GPU
+
+ 
+
+cpu_bind=NONE - ml-gpu03, task  0  0 [21614]: mask 0xffff set
+cpu_bind=NONE - ml-gpu03, task  1  1 [21615]: mask 0xffff set
+cpu_bind=NONE - ml-gpu03, task  2  2 [21616]: mask 0xffff set
+cpu_bind=NONE - ml-gpu03, task  3  3 [21617]: mask 0xffff set
+<PSP:r0000001:extoll:EXTOLL disabled : rma2_open() : Communication with the OS driver failed>
+<PSP:r0000003:extoll:EXTOLL disabled : rma2_open() : Communication with the OS driver failed>
+<PSP:r0000002:extoll:EXTOLL disabled : rma2_open() : Communication with the OS driver failed>
+<PSP:r0000000:extoll:EXTOLL disabled : rma2_open() : Communication with the OS driver failed>
+2021-11-20 19:26:23.972545: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2600000000 Hz
+2021-11-20 19:26:23.972618: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2600000000 Hz
+2021-11-20 19:26:23.973597: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x35b7a00 executing computations on platform Host. Devices:
+2021-11-20 19:26:23.973641: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): <undefined>, <undefined>
+2021-11-20 19:26:23.973678: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x4cc7c50 executing computations on platform Host. Devices:
+2021-11-20 19:26:23.973718: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): <undefined>, <undefined>
+2021-11-20 19:26:23.977451: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2600000000 Hz
+2021-11-20 19:26:23.978413: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x3519870 executing computations on platform Host. Devices:
+2021-11-20 19:26:23.978450: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): <undefined>, <undefined>
+2021-11-20 19:26:23.982486: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2600000000 Hz
+2021-11-20 19:26:23.983630: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x3f8fd70 executing computations on platform Host. Devices:
+2021-11-20 19:26:23.983680: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): <undefined>, <undefined>
+2021-11-20 19:26:28.726474: W tensorflow/compiler/xla/service/platform_util.cc:240] unable to create StreamExecutor for CUDA:2: failed initializing StreamExecutor for CUDA device ordinal 2: Internal: failed call to cuDevicePrimaryCtxRetain: CUDA_ERROR_UNKNOWN: unknown error
+2021-11-20 19:26:37.300569: W tensorflow/compiler/xla/service/platform_util.cc:240] unable to create StreamExecutor for CUDA:2: failed initializing StreamExecutor for CUDA device ordinal 2: Internal: failed call to cuDevicePrimaryCtxRetain: CUDA_ERROR_UNKNOWN: unknown error
+2021-11-20 19:26:37.854408: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x4d17440 executing computations on platform CUDA. Devices:
+2021-11-20 19:26:37.854464: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): Tesla V100-PCIE-16GB, Compute Capability 7.0
+2021-11-20 19:26:37.854473: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (1): Tesla V100-PCIE-16GB, Compute Capability 7.0
+2021-11-20 19:26:37.854505: F tensorflow/stream_executor/lib/statusor.cc:34] Attempting to fetch value instead of handling error Invalid argument: device CUDA:2 not supported by XLA service
+2021-11-20 19:26:37.921819: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x3569080 executing computations on platform CUDA. Devices:
+2021-11-20 19:26:37.921884: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): Tesla V100-PCIE-16GB, Compute Capability 7.0
+2021-11-20 19:26:37.921897: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (1): Tesla V100-PCIE-16GB, Compute Capability 7.0
+2021-11-20 19:26:37.921947: F tensorflow/stream_executor/lib/statusor.cc:34] Attempting to fetch value instead of handling error Invalid argument: device CUDA:2 not supported by XLA service
+<PSP:r0000001:pscom guard con:0x84bcf0 terminated>
+<PSP:r0000000:pscom guard con:0x1222b10 terminated>
+srun: error: ml-gpu03: tasks 2-3: Aborted
